@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: CoSolIT
+Label: CoSolIT
+Suite: stable
+Codename: bookworm
+Date: Mon, 08 Apr 2024 11:05:50 UTC
+Architectures: amd64 armhf arm64
+Components: main
+MD5Sum:
+ d97e6ab04e04e056cdfb5282eec6beb3 3992 main/binary-amd64/Packages
+ c0945d2a147227c416b3ffe96a51e1ab 1802 main/binary-amd64/Packages.gz
+ 3318334e86908433600c506be81501e0 83 main/binary-amd64/Release
+ 9d7a4165d20b5f593a3cb5acea3a0bdd 1782 main/binary-armhf/Packages
+ 2688d4bc21e5197c85ba3c2a533cf543 918 main/binary-armhf/Packages.gz
+ 6ea6ea63eeeace2921db2b51fa2992e9 83 main/binary-armhf/Release
+ 0d527dbdc9388f9f740488693d9289de 2419 main/binary-arm64/Packages
+ 9570baeea4a12a37d7380cd78019f5ab 1204 main/binary-arm64/Packages.gz
+ 9a77256ac48b30e8e48ece7a69f92f4a 83 main/binary-arm64/Release
+SHA1:
+ 1ca10f3523edf6599ac189b8cd50fb5f20ecbd9a 3992 main/binary-amd64/Packages
+ bd5ffefdedf22294915ed6d256fa9b6f313c85af 1802 main/binary-amd64/Packages.gz
+ 672367e284fcd3ba3a3669ba8918f9ebac06ca3a 83 main/binary-amd64/Release
+ 67644a77afe5ac1e5bc0f733a33b1c896e3f3417 1782 main/binary-armhf/Packages
+ e734252af6278e7a1a9ee82b110efacc47a3b337 918 main/binary-armhf/Packages.gz
+ e708bed25f10a16d6dae8f5060366523c472212f 83 main/binary-armhf/Release
+ 63283a24cd3a47482afcc787e49b4189330967b7 2419 main/binary-arm64/Packages
+ 04b2abca913f6b1714b6fcaef3b46c3f2f9bee56 1204 main/binary-arm64/Packages.gz
+ 7caf186e9efb80bb750a1dba3c0d38e0210f933a 83 main/binary-arm64/Release
+SHA256:
+ dab77956a9fe6379895766d735cc58aff2e9a701ac848bf8f3f1ede9468decd2 3992 main/binary-amd64/Packages
+ 92777328271d1e81fa64f6e1c8168f5f932a9f78a7644d61dac8f96704077429 1802 main/binary-amd64/Packages.gz
+ cffa8574efc5486a5d8bf6cc158c4da2b377ada9d995974f2f738208c747498d 83 main/binary-amd64/Release
+ f9651281379195da3d799726a5a837a4dd7d4e7ea9fd938c5502b80ab9ad238b 1782 main/binary-armhf/Packages
+ f18c57f3c0fd226218938c9904a8598beca002247900f7e2e08c63aa312bc532 918 main/binary-armhf/Packages.gz
+ 9bdb421a0a80bc9342f63f4441a60e6572b9e8809ec1d56bb62f91c0fe8f6bb5 83 main/binary-armhf/Release
+ 114ff1bbd7f9978c129b557f6648b4c38bfe817a5c02f6a2dcb26be972bfb335 2419 main/binary-arm64/Packages
+ b68f548419e58533eaff828eaf995b0b9955dad6d4cbc6baec1ee4f849fb6dd7 1204 main/binary-arm64/Packages.gz
+ b49d38fdee237ea8916750957e0930c255363d51e7f9c6ba207e83953be2b94d 83 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQogLWLo2TSy9MvbTrxTdwM1QTLIgUCZhPPjwAKCRDxTdwM1QTL
+IpFCAQDMG30AvuPvUr6fqYGM2yp3Bq5pDD8QS8fx7cteAxaFcgD+JquNBjWkyuBN
+OkREouU/If0iZ/kQuV9OrqwrJrNOugw=
+=n/ZD
+-----END PGP SIGNATURE-----

@@ -1,0 +1,109 @@
+Package: pushover-cli
+Version: 1.0.4-1
+License: unknown
+Vendor: CoSolIT
+Architecture: amd64
+Maintainer: Florian Frank <frank@cosolit.de>
+Installed-Size: 6372
+Homepage: https://github.com/adrianrudnik/pushover-cli
+Priority: extra
+Section: default
+Filename: pool/main/p/pushover-cli/pushover-cli_1.0.4-1_amd64.deb
+Size: 2684540
+SHA256: 6814a8d2075cfb103d400760a4a7ce4ba50c35fbbf512ec7ebe14367107e5467
+SHA1: 7d6f21e6769087aac9182c0fd4ea0c28c1338078
+MD5sum: e319f6fb64a858320c4d9386ac51f0fb
+Description: no description given
+
+Package: rclone
+Version: 1.66.0
+Architecture: amd64
+Maintainer: Nick Craig-Wood <nick@craig-wood.com>
+Installed-Size: 66512
+Provides: rclone
+Homepage: https://rclone.org
+Priority: extra
+Section: default
+Filename: pool/main/r/rclone/rclone_1.66.0_amd64.deb
+Size: 21572074
+SHA256: c86db29845f8c6a4720c47a28c1a53e75ecab95cb14a5ecb6678489d2d8e2a84
+SHA1: 0fa51f9d646c75775bc687acfc5248b5b95200f3
+MD5sum: 30c1bc47f3140c184784657678e7cd5b
+Description: Rclone - "rsync for cloud storage"
+ is a command-line program to sync files and directories to and
+ from most cloud providers. It can also mount, tree, ncdu and lots
+ of other useful things.
+
+Package: restic
+Version: 0.16.4-1
+Priority: optional
+Section: admin
+Filename: pool/main/r/restic/restic_0.16.4-1_amd64.deb
+Size: 9040996
+SHA256: 737d814ac1796df73b40abbbb910db0f92c96efaaa74b68ff1ff6b2ad83859d0
+SHA1: 678463a299287e96f182624769495484468a9315
+MD5sum: 17d0da9990a0058a954b230838b3c0d9
+Description: Restic is a modern backup program that can back up your files.
+Architecture: amd64
+License: BSD-2-Clause
+Maintainer: Florian Frank <frank@cosolit.de>
+Homepage: https://restic.net
+
+Package: starship
+Version: 1.18.2-1
+Priority: optional
+Section: admin
+Filename: pool/main/s/starship/starship_1.18.2-1_amd64.deb
+Size: 3994994
+SHA256: 0a1cf924f36d9c47c48c3092c0dabee7c5128555bb35d8ec52f9d622836dc702
+SHA1: 61ff22882126adc45f4b7527ec3573d661f3d4c5
+MD5sum: 16848c6e2b486fd01869cd4c883ae2b0
+Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+Architecture: amd64
+License: ISC
+Maintainer: Florian Frank <frank@cosolit.de>
+Homepage: https://starship.rs
+
+Package: vaultwarden
+Version: 1.30.5-0~bookworm
+Architecture: amd64
+Maintainer: dionysius <dragon.dionysius@gmail.com>
+Installed-Size: 29402
+Depends: adduser, coreutils, vaultwarden-web-vault, libc6 (>= 2.34), libgcc-s1 (>= 4.2), libmariadb3 (>= 3.0.0), libpq5, libssl3 (>= 3.0.0)
+Suggests: sqlite3 | postgresql | default-mysql-server | virtual-mysql-server
+Homepage: https://github.com/dani-garcia/vaultwarden
+Priority: optional
+Section: misc
+Filename: pool/main/v/vaultwarden/vaultwarden_1.30.5-0~bookworm_amd64.deb
+Size: 7786684
+SHA256: 4fd7146e6d6ab9b4cfec83ffce65934c5d5d5f474305b8e86d79a861ebe669b0
+SHA1: dc8e3ccedd4bfb8c70239bd3e92b7e25b2b6afae
+MD5sum: e17a671828f16f079b9a99bd02ba498a
+Description: Unofficial Bitwarden compatible server written in Rust
+ Alternative implementation of the Bitwarden server API written in Rust and
+ compatible with upstream Bitwarden clients*, perfect for self-hosted
+ deployment where running the official resource-heavy service might not be
+ ideal.
+ .
+ This package contains the vaultwarden api server binary
+
+Package: vaultwarden-web-vault
+Version: 2024.3.0-0~bookworm
+Architecture: all
+Maintainer: dionysius <dragon.dionysius@gmail.com>
+Installed-Size: 45183
+Homepage: https://github.com/bitwarden/clients
+Priority: optional
+Section: web
+Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.3.0-0~bookworm_all.deb
+Size: 7403564
+SHA256: 3a0698e298cb184629cc08702b4b4dce2e7bb018f8424c4926454c6af695d7a1
+SHA1: 40ac544a79c348531b086e58cfbd3221dbb7188d
+MD5sum: 6d88744788e39ce492f585a76bb5c5d4
+Description: Web vault frontend for vaultwarden server
+ The vaultwarden web vault based on the bitwarden web vault with patches to make
+ it work with vaultwarden.
+ .
+ This package contains the vaultwarden web vault frontend data
+Patches-From: https://github.com/dani-garcia/bw_web_builds
+

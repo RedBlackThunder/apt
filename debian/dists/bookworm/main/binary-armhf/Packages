@@ -1,0 +1,50 @@
+Package: restic
+Version: 0.16.4-1
+Priority: optional
+Section: admin
+Filename: pool/main/r/restic/restic_0.16.4-1_armhf.deb
+Size: 8479306
+SHA256: 03453ff8b86918cf441264b60f33285a4a2a4d3da9637ae9b3a5eeffbd48946d
+SHA1: 845c9655324deab291b9f5f7881765d5d505d2b8
+MD5sum: 30d6e4bd7f1200dffe301bee7f9c3a0a
+Description: Restic is a modern backup program that can back up your files.
+Architecture: armhf
+License: BSD-2-Clause
+Maintainer: Florian Frank <frank@cosolit.de>
+Homepage: https://restic.net
+
+Package: starship
+Version: 1.18.2-1
+Priority: optional
+Section: admin
+Filename: pool/main/s/starship/starship_1.18.2-1_armhf.deb
+Size: 3883968
+SHA256: 4c31a55fac750b26206caf7481c7e289374f4aad140e0b648a2becc8ce792c83
+SHA1: f1669b22fea0f1f402b6ec1da2b223af78f7872e
+MD5sum: af3fd0a2d49eb3aced9414f0739ac96b
+Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+Architecture: armhf
+License: ISC
+Maintainer: Florian Frank <frank@cosolit.de>
+Homepage: https://starship.rs
+
+Package: vaultwarden-web-vault
+Version: 2024.3.0-0~bookworm
+Architecture: all
+Maintainer: dionysius <dragon.dionysius@gmail.com>
+Installed-Size: 45183
+Homepage: https://github.com/bitwarden/clients
+Priority: optional
+Section: web
+Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.3.0-0~bookworm_all.deb
+Size: 7403564
+SHA256: 3a0698e298cb184629cc08702b4b4dce2e7bb018f8424c4926454c6af695d7a1
+SHA1: 40ac544a79c348531b086e58cfbd3221dbb7188d
+MD5sum: 6d88744788e39ce492f585a76bb5c5d4
+Description: Web vault frontend for vaultwarden server
+ The vaultwarden web vault based on the bitwarden web vault with patches to make
+ it work with vaultwarden.
+ .
+ This package contains the vaultwarden web vault frontend data
+Patches-From: https://github.com/dani-garcia/bw_web_builds
+

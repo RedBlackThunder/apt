@@ -1,0 +1,28 @@
+Origin: CoSolIT
+Label: CoSolIT
+Suite: oldstable
+Codename: bullseye
+Date: Thu, 19 Oct 2023 19:46:59 UTC
+Architectures: armhf arm64
+Components: main
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ 97c165e4ea5bfb8d7f25fe28a1dccfbc 86 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 871149784e1cf2d8d214eeb4841364a7 86 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ acc199b47e174363133c6d50ff1bbc1292cefddf 86 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ af0b3f0587ba6ee2c1675f7f60dc57adbd8cb898 86 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 0dda369312e340ce3229639468b7b22a4a30363ed4b406350bfec06300b9bd77 86 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ eb5a255ff5fcee708ebcec429fced08ee6edce8b32e7f4653b34a418ff6d94ce 86 main/binary-arm64/Release

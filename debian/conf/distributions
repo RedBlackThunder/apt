@@ -1,0 +1,7 @@
+Origin: CoSolIT
+Label: CoSolIT
+Suite: stable
+Codename: bookworm
+Architectures: amd64 armhf arm64
+Components: main
+SignWith: 2880B58BA364D2CBD32F6D3AF14DDC0CD504CB22
