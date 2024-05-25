@@ -33,14 +33,14 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://restic.net
 
 Package: starship
-Version: 1.18.2-1
+Version: 1.19.0-1
 Priority: optional
-Section: admin
-Filename: pool/main/s/starship/starship_1.18.2-1_arm64.deb
-Size: 3709322
-SHA256: a221d5fcb478091c1de55fdbd451882c5e28cb67917c01231c3f9317c64b1e90
-SHA1: c29e87cba6e3c622d03c9369ac828ac59b9bb6c5
-MD5sum: d666f4e5d64b074b32dadd7023894944
+Section: shells
+Filename: pool/main/s/starship/starship_1.19.0-1_arm64.deb
+Size: 3666748
+SHA256: 9de3cc80c9dff7cdeb324c605c1bc6bcd5f8ceb83e3d751c9b86e8a831345e30
+SHA1: 9ed5f60827694313ac467b369ec0bbb2f0fc9388
+MD5sum: 2acd5558d381528a34741e9ecb08a401
 Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 Architecture: arm64
 License: ISC
@@ -48,18 +48,18 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://starship.rs
 
 Package: vaultwarden-web-vault
-Version: 2024.3.0-0~bookworm
+Version: 2024.5.0-0~bookworm
 Architecture: all
 Maintainer: dionysius <dragon.dionysius@gmail.com>
-Installed-Size: 45183
+Installed-Size: 46701
 Homepage: https://github.com/bitwarden/clients
 Priority: optional
 Section: web
-Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.3.0-0~bookworm_all.deb
-Size: 7403564
-SHA256: 3a0698e298cb184629cc08702b4b4dce2e7bb018f8424c4926454c6af695d7a1
-SHA1: 40ac544a79c348531b086e58cfbd3221dbb7188d
-MD5sum: 6d88744788e39ce492f585a76bb5c5d4
+Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.5.0-0~bookworm_all.deb
+Size: 7575384
+SHA256: 3a649c4f4686a47036d963f009087ae738f66d7513e10db7385d6180e47e88cc
+SHA1: 54345fc5256dc76b99957489654da19732051717
+MD5sum: 12de587b4b8e81b3075336d18b9fddca
 Description: Web vault frontend for vaultwarden server
  The vaultwarden web vault based on the bitwarden web vault with patches to make
  it work with vaultwarden.

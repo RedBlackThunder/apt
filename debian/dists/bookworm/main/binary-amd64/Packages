@@ -50,14 +50,14 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://restic.net
 
 Package: starship
-Version: 1.18.2-1
+Version: 1.19.0-1
 Priority: optional
-Section: admin
-Filename: pool/main/s/starship/starship_1.18.2-1_amd64.deb
-Size: 3994994
-SHA256: 0a1cf924f36d9c47c48c3092c0dabee7c5128555bb35d8ec52f9d622836dc702
-SHA1: 61ff22882126adc45f4b7527ec3573d661f3d4c5
-MD5sum: 16848c6e2b486fd01869cd4c883ae2b0
+Section: shells
+Filename: pool/main/s/starship/starship_1.19.0-1_amd64.deb
+Size: 3997984
+SHA256: 4d7add8b4330ce17b0087e95e47f539b950d6b39f390db084cb4070c0afe5fce
+SHA1: fe4b0b57e989a7163b65e2991b53345e5ea5ffdb
+MD5sum: c3bcfb0081f562b67959502884e06c02
 Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 Architecture: amd64
 License: ISC
@@ -65,20 +65,20 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://starship.rs
 
 Package: vaultwarden
-Version: 1.30.5-0~bookworm
+Version: 1.30.5-1~bookworm
 Architecture: amd64
 Maintainer: dionysius <dragon.dionysius@gmail.com>
-Installed-Size: 29402
+Installed-Size: 29442
 Depends: adduser, coreutils, vaultwarden-web-vault, libc6 (>= 2.34), libgcc-s1 (>= 4.2), libmariadb3 (>= 3.0.0), libpq5, libssl3 (>= 3.0.0)
 Suggests: sqlite3 | postgresql | default-mysql-server | virtual-mysql-server
 Homepage: https://github.com/dani-garcia/vaultwarden
 Priority: optional
 Section: misc
-Filename: pool/main/v/vaultwarden/vaultwarden_1.30.5-0~bookworm_amd64.deb
-Size: 7786684
-SHA256: 4fd7146e6d6ab9b4cfec83ffce65934c5d5d5f474305b8e86d79a861ebe669b0
-SHA1: dc8e3ccedd4bfb8c70239bd3e92b7e25b2b6afae
-MD5sum: e17a671828f16f079b9a99bd02ba498a
+Filename: pool/main/v/vaultwarden/vaultwarden_1.30.5-1~bookworm_amd64.deb
+Size: 7801704
+SHA256: 390d5c0f76c9cab900688880993c0f265a61b7d62a7753bfac5ae95047783e0e
+SHA1: 04613acc171b60966890ceda396a467268471135
+MD5sum: 3b8ec2a5a3ee19669a8e668e1d58d0a1
 Description: Unofficial Bitwarden compatible server written in Rust
  Alternative implementation of the Bitwarden server API written in Rust and
  compatible with upstream Bitwarden clients*, perfect for self-hosted
@@ -88,18 +88,18 @@ Description: Unofficial Bitwarden compatible server written in Rust
  This package contains the vaultwarden api server binary
 
 Package: vaultwarden-web-vault
-Version: 2024.3.0-0~bookworm
+Version: 2024.5.0-0~bookworm
 Architecture: all
 Maintainer: dionysius <dragon.dionysius@gmail.com>
-Installed-Size: 45183
+Installed-Size: 46701
 Homepage: https://github.com/bitwarden/clients
 Priority: optional
 Section: web
-Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.3.0-0~bookworm_all.deb
-Size: 7403564
-SHA256: 3a0698e298cb184629cc08702b4b4dce2e7bb018f8424c4926454c6af695d7a1
-SHA1: 40ac544a79c348531b086e58cfbd3221dbb7188d
-MD5sum: 6d88744788e39ce492f585a76bb5c5d4
+Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.5.0-0~bookworm_all.deb
+Size: 7575384
+SHA256: 3a649c4f4686a47036d963f009087ae738f66d7513e10db7385d6180e47e88cc
+SHA1: 54345fc5256dc76b99957489654da19732051717
+MD5sum: 12de587b4b8e81b3075336d18b9fddca
 Description: Web vault frontend for vaultwarden server
  The vaultwarden web vault based on the bitwarden web vault with patches to make
  it work with vaultwarden.
