@@ -16,19 +16,19 @@ MD5sum: e319f6fb64a858320c4d9386ac51f0fb
 Description: no description given
 
 Package: rclone
-Version: 1.66.0
+Version: 1.67.0
 Architecture: amd64
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 66512
+Installed-Size: 67500
 Provides: rclone
 Homepage: https://rclone.org
 Priority: extra
 Section: default
-Filename: pool/main/r/rclone/rclone_1.66.0_amd64.deb
-Size: 21572074
-SHA256: c86db29845f8c6a4720c47a28c1a53e75ecab95cb14a5ecb6678489d2d8e2a84
-SHA1: 0fa51f9d646c75775bc687acfc5248b5b95200f3
-MD5sum: 30c1bc47f3140c184784657678e7cd5b
+Filename: pool/main/r/rclone/rclone_1.67.0_amd64.deb
+Size: 21830158
+SHA256: abcb9405f525c9cdbcfe8dfd97aca28e5ef32d3cc6d19dc1c225f0a87284068f
+SHA1: b761b4ba59a9d6a6bf96fad1d58f64795bf3f8da
+MD5sum: a3031aa709cbc45ef5602b81d1e79fb6
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
@@ -65,20 +65,20 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://starship.rs
 
 Package: vaultwarden
-Version: 1.30.5-1~bookworm
+Version: 1.30.5-2~bookworm
 Architecture: amd64
 Maintainer: dionysius <dragon.dionysius@gmail.com>
-Installed-Size: 29442
+Installed-Size: 29386
 Depends: adduser, coreutils, vaultwarden-web-vault, libc6 (>= 2.34), libgcc-s1 (>= 4.2), libmariadb3 (>= 3.0.0), libpq5, libssl3 (>= 3.0.0)
 Suggests: sqlite3 | postgresql | default-mysql-server | virtual-mysql-server
 Homepage: https://github.com/dani-garcia/vaultwarden
 Priority: optional
 Section: misc
-Filename: pool/main/v/vaultwarden/vaultwarden_1.30.5-1~bookworm_amd64.deb
-Size: 7801704
-SHA256: 390d5c0f76c9cab900688880993c0f265a61b7d62a7753bfac5ae95047783e0e
-SHA1: 04613acc171b60966890ceda396a467268471135
-MD5sum: 3b8ec2a5a3ee19669a8e668e1d58d0a1
+Filename: pool/main/v/vaultwarden/vaultwarden_1.30.5-2~bookworm_amd64.deb
+Size: 7779780
+SHA256: 1e4a5f3aaceba92da06b2e31a929403679cc4d1e812c4f062e5d05fea116da78
+SHA1: 7e18bbc4970d7c38dc2c5d600c5e0ae36b2a36e2
+MD5sum: e27baaa9331b05568d7342666499e63a
 Description: Unofficial Bitwarden compatible server written in Rust
  Alternative implementation of the Bitwarden server API written in Rust and
  compatible with upstream Bitwarden clients*, perfect for self-hosted
@@ -88,18 +88,18 @@ Description: Unofficial Bitwarden compatible server written in Rust
  This package contains the vaultwarden api server binary
 
 Package: vaultwarden-web-vault
-Version: 2024.5.0-0~bookworm
+Version: 2024.5.1-0~bookworm
 Architecture: all
 Maintainer: dionysius <dragon.dionysius@gmail.com>
-Installed-Size: 46701
+Installed-Size: 46700
 Homepage: https://github.com/bitwarden/clients
 Priority: optional
 Section: web
-Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.5.0-0~bookworm_all.deb
-Size: 7575384
-SHA256: 3a649c4f4686a47036d963f009087ae738f66d7513e10db7385d6180e47e88cc
-SHA1: 54345fc5256dc76b99957489654da19732051717
-MD5sum: 12de587b4b8e81b3075336d18b9fddca
+Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.5.1-0~bookworm_all.deb
+Size: 7575260
+SHA256: 85a3af2911067dc7b9f7f23115052e93288592e19da6882ab580cf5370322862
+SHA1: 2c9777d78deb3dec25592800580902dac9d97f2c
+MD5sum: 95f7b31f65eba7c67f39fd7a6930829e
 Description: Web vault frontend for vaultwarden server
  The vaultwarden web vault based on the bitwarden web vault with patches to make
  it work with vaultwarden.

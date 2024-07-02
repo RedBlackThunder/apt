@@ -1,17 +1,17 @@
 Package: rclone
-Version: 1.66.0
+Version: 1.67.0
 Architecture: arm64
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 64312
+Installed-Size: 65404
 Provides: rclone
 Homepage: https://rclone.org
 Priority: extra
 Section: default
-Filename: pool/main/r/rclone/rclone_1.66.0_arm64.deb
-Size: 20105846
-SHA256: 2574d320cc107047490a5e3432c84c4de4b0d9da70f6d4aaa48a80a40b99bc99
-SHA1: 138b4c4efd1c58ebc8919526d97787ebb1f6df42
-MD5sum: dd7c57e06cd896291364716dc3fe75c8
+Filename: pool/main/r/rclone/rclone_1.67.0_arm64.deb
+Size: 20359302
+SHA256: 19e6eaa89377d7e40661f4fa52f6275db06e9785a23413ca7abb7dc64538e82c
+SHA1: 3f05644b27f8b916dc444e9c19945b8e12dadf26
+MD5sum: abd968beb4fe9cacf6a60a9db1b5042a
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
@@ -48,18 +48,18 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://starship.rs
 
 Package: vaultwarden-web-vault
-Version: 2024.5.0-0~bookworm
+Version: 2024.5.1-0~bookworm
 Architecture: all
 Maintainer: dionysius <dragon.dionysius@gmail.com>
-Installed-Size: 46701
+Installed-Size: 46700
 Homepage: https://github.com/bitwarden/clients
 Priority: optional
 Section: web
-Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.5.0-0~bookworm_all.deb
-Size: 7575384
-SHA256: 3a649c4f4686a47036d963f009087ae738f66d7513e10db7385d6180e47e88cc
-SHA1: 54345fc5256dc76b99957489654da19732051717
-MD5sum: 12de587b4b8e81b3075336d18b9fddca
+Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.5.1-0~bookworm_all.deb
+Size: 7575260
+SHA256: 85a3af2911067dc7b9f7f23115052e93288592e19da6882ab580cf5370322862
+SHA1: 2c9777d78deb3dec25592800580902dac9d97f2c
+MD5sum: 95f7b31f65eba7c67f39fd7a6930829e
 Description: Web vault frontend for vaultwarden server
  The vaultwarden web vault based on the bitwarden web vault with patches to make
  it work with vaultwarden.
