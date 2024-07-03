@@ -35,14 +35,14 @@ Description: Rclone - "rsync for cloud storage"
  of other useful things.
 
 Package: restic
-Version: 0.16.4-1
+Version: 0.16.5-1
 Priority: optional
 Section: admin
-Filename: pool/main/r/restic/restic_0.16.4-1_amd64.deb
-Size: 9040996
-SHA256: 737d814ac1796df73b40abbbb910db0f92c96efaaa74b68ff1ff6b2ad83859d0
-SHA1: 678463a299287e96f182624769495484468a9315
-MD5sum: 17d0da9990a0058a954b230838b3c0d9
+Filename: pool/main/r/restic/restic_0.16.5-1_amd64.deb
+Size: 9461870
+SHA256: 06c38208e9edf6f2fdc06c182985afc5487d9720168af47d3138883832aba3d3
+SHA1: 379d8cc8257e45fa25122d5efbe304bd9332102b
+MD5sum: 5ec400acf782afddb34fbfdfdc6f3f41
 Description: Restic is a modern backup program that can back up your files.
 Architecture: amd64
 License: BSD-2-Clause
