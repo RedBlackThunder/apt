@@ -65,20 +65,20 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://starship.rs
 
 Package: vaultwarden
-Version: 1.30.5-2~bookworm
+Version: 1.31.0-0~bookworm
 Architecture: amd64
 Maintainer: dionysius <dragon.dionysius@gmail.com>
-Installed-Size: 29386
+Installed-Size: 30823
 Depends: adduser, coreutils, vaultwarden-web-vault, libc6 (>= 2.34), libgcc-s1 (>= 4.2), libmariadb3 (>= 3.0.0), libpq5, libssl3 (>= 3.0.0)
 Suggests: sqlite3 | postgresql | default-mysql-server | virtual-mysql-server
 Homepage: https://github.com/dani-garcia/vaultwarden
 Priority: optional
 Section: misc
-Filename: pool/main/v/vaultwarden/vaultwarden_1.30.5-2~bookworm_amd64.deb
-Size: 7779780
-SHA256: 1e4a5f3aaceba92da06b2e31a929403679cc4d1e812c4f062e5d05fea116da78
-SHA1: 7e18bbc4970d7c38dc2c5d600c5e0ae36b2a36e2
-MD5sum: e27baaa9331b05568d7342666499e63a
+Filename: pool/main/v/vaultwarden/vaultwarden_1.31.0-0~bookworm_amd64.deb
+Size: 7810584
+SHA256: 6908e118d342dae77dd9486770750e7fa8afb39be0ba050695d10ac1c7ca5ee3
+SHA1: 8d846587162a2905270f561edbd9a81992c8b35f
+MD5sum: f5e65cc8539e3bd75aa790d1eaf3b7f4
 Description: Unofficial Bitwarden compatible server written in Rust
  Alternative implementation of the Bitwarden server API written in Rust and
  compatible with upstream Bitwarden clients*, perfect for self-hosted
@@ -88,18 +88,18 @@ Description: Unofficial Bitwarden compatible server written in Rust
  This package contains the vaultwarden api server binary
 
 Package: vaultwarden-web-vault
-Version: 2024.5.1-0~bookworm
+Version: 2024.5.1-1~bookworm
 Architecture: all
 Maintainer: dionysius <dragon.dionysius@gmail.com>
-Installed-Size: 46700
+Installed-Size: 46698
 Homepage: https://github.com/bitwarden/clients
 Priority: optional
 Section: web
-Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.5.1-0~bookworm_all.deb
-Size: 7575260
-SHA256: 85a3af2911067dc7b9f7f23115052e93288592e19da6882ab580cf5370322862
-SHA1: 2c9777d78deb3dec25592800580902dac9d97f2c
-MD5sum: 95f7b31f65eba7c67f39fd7a6930829e
+Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.5.1-1~bookworm_all.deb
+Size: 7575588
+SHA256: 300feaa8b0dc013c87b8fa88a0e96d4bdfd6ef818548e9bdde8012d08d8ffd9b
+SHA1: 60fa9ec0c9d27557f779e7877d44ae9f2a2f07eb
+MD5sum: 36be86eafb4f6f4c50a766960cc864cd
 Description: Web vault frontend for vaultwarden server
  The vaultwarden web vault based on the bitwarden web vault with patches to make
  it work with vaultwarden.

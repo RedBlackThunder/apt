@@ -29,18 +29,18 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://starship.rs
 
 Package: vaultwarden-web-vault
-Version: 2024.5.1-0~bookworm
+Version: 2024.5.1-1~bookworm
 Architecture: all
 Maintainer: dionysius <dragon.dionysius@gmail.com>
-Installed-Size: 46700
+Installed-Size: 46698
 Homepage: https://github.com/bitwarden/clients
 Priority: optional
 Section: web
-Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.5.1-0~bookworm_all.deb
-Size: 7575260
-SHA256: 85a3af2911067dc7b9f7f23115052e93288592e19da6882ab580cf5370322862
-SHA1: 2c9777d78deb3dec25592800580902dac9d97f2c
-MD5sum: 95f7b31f65eba7c67f39fd7a6930829e
+Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.5.1-1~bookworm_all.deb
+Size: 7575588
+SHA256: 300feaa8b0dc013c87b8fa88a0e96d4bdfd6ef818548e9bdde8012d08d8ffd9b
+SHA1: 60fa9ec0c9d27557f779e7877d44ae9f2a2f07eb
+MD5sum: 36be86eafb4f6f4c50a766960cc864cd
 Description: Web vault frontend for vaultwarden server
  The vaultwarden web vault based on the bitwarden web vault with patches to make
  it work with vaultwarden.
