@@ -2,12 +2,12 @@ Origin: CoSolIT
 Label: CoSolIT
 Suite: stable
 Codename: bookworm
-Date: Sun, 11 Aug 2024 18:14:46 UTC
+Date: Mon, 12 Aug 2024 19:29:32 UTC
 Architectures: amd64 armhf arm64
 Components: main
 MD5Sum:
- c36780a8d34706f5dd1821565262c48b 4522 main/binary-amd64/Packages
- 6c4ab3acc6e9a8d0332b889451b4a89b 1988 main/binary-amd64/Packages.gz
+ 39b4ae6c06fb29a72e3024fd0bd76771 4522 main/binary-amd64/Packages
+ 3e9186a6476062e7ab6598aff3fc54e4 1987 main/binary-amd64/Packages.gz
  3318334e86908433600c506be81501e0 83 main/binary-amd64/Release
  77a368260a6380221072dc0e5beca6d9 1782 main/binary-armhf/Packages
  8bf2f6c2c54235ed3d9f1ad047100ccc 917 main/binary-armhf/Packages.gz
@@ -16,8 +16,8 @@ MD5Sum:
  b189a65d372347479f999dad7697ce5a 1207 main/binary-arm64/Packages.gz
  9a77256ac48b30e8e48ece7a69f92f4a 83 main/binary-arm64/Release
 SHA1:
- d0ee4e82759c6176feec8ffbb16c8d54b25200ab 4522 main/binary-amd64/Packages
- 2c9fe0d74b496e69218f33b3e0dc170a33fc59c7 1988 main/binary-amd64/Packages.gz
+ 35859af524c1fb28fb4284345d842c8a0d96c114 4522 main/binary-amd64/Packages
+ 1c2507cf670735432ef0b8b9fc3254f9ab9ce249 1987 main/binary-amd64/Packages.gz
  672367e284fcd3ba3a3669ba8918f9ebac06ca3a 83 main/binary-amd64/Release
  dd843ecff86a5e3a70952ee9752606cdd597a20e 1782 main/binary-armhf/Packages
  ed5c2d6d0b1a35845c47346eef1c1dc98915f3b1 917 main/binary-armhf/Packages.gz
@@ -26,8 +26,8 @@ SHA1:
  953b8053277f4e224505a0ad2469607ae37d63de 1207 main/binary-arm64/Packages.gz
  7caf186e9efb80bb750a1dba3c0d38e0210f933a 83 main/binary-arm64/Release
 SHA256:
- ea5d79e5167314407ab73a05c4858ab6a59f1f8a3432ce29314f6e54371dcb2d 4522 main/binary-amd64/Packages
- 2e2cbc37982714e9fa60ba228b94a0320c51510298d49e8fb21086c082498965 1988 main/binary-amd64/Packages.gz
+ 2074a1d9c26a940680622e7783da8db396bc4e8089f02f1332a6d5b7b860c46a 4522 main/binary-amd64/Packages
+ 0244ab922c87dc7e944d6dc278609777359c844c011c937b7a454a7256e7e970 1987 main/binary-amd64/Packages.gz
  cffa8574efc5486a5d8bf6cc158c4da2b377ada9d995974f2f738208c747498d 83 main/binary-amd64/Release
  60065191c29c83346516847596030f20159e876352ea63a76ec821c4a6f89303 1782 main/binary-armhf/Packages
  7c8694e851b2c54c6e9ba7360f3668b84f7a8951eff0710bfefa8c9979677076 917 main/binary-armhf/Packages.gz
