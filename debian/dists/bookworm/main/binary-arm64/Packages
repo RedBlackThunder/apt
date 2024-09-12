@@ -1,31 +1,31 @@
 Package: rclone
-Version: 1.67.0
+Version: 1.68.0
 Architecture: arm64
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 65404
+Installed-Size: 64294
 Provides: rclone
 Homepage: https://rclone.org
 Priority: extra
 Section: default
-Filename: pool/main/r/rclone/rclone_1.67.0_arm64.deb
-Size: 20359302
-SHA256: 19e6eaa89377d7e40661f4fa52f6275db06e9785a23413ca7abb7dc64538e82c
-SHA1: 3f05644b27f8b916dc444e9c19945b8e12dadf26
-MD5sum: abd968beb4fe9cacf6a60a9db1b5042a
+Filename: pool/main/r/rclone/rclone_1.68.0_arm64.deb
+Size: 21384252
+SHA256: c0aa0ed60364f836fc860591c0276c2ff84649c9d0c464468abd5f8a04b0c5e9
+SHA1: 23d8e9f9614e94b3464d6af8e5b1db44d7452137
+MD5sum: f7f25b85d376f8a750dc808b0f679bba
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
  of other useful things.
 
 Package: restic
-Version: 0.17.0-1
+Version: 0.17.1-1
 Priority: optional
 Section: admin
-Filename: pool/main/r/restic/restic_0.17.0-1_arm64.deb
-Size: 8752714
-SHA256: 88614fd6e3f904209735beec99e79ea843a3ee5f117c4c206ed21724c33e9720
-SHA1: 8fb6be790e411fde6b51e35d1448d19a7dcf98f3
-MD5sum: e0604f0cf8b84c2020e5003465269cd7
+Filename: pool/main/r/restic/restic_0.17.1-1_arm64.deb
+Size: 8910024
+SHA256: d56002007a6428319027c723d65d065b2cd16409ad8e79c91efa837ef7ed0ddc
+SHA1: 4f484b67ffb377e08a7dac85ba9a90e19c43851c
+MD5sum: d7be32a8bc9f69e06cc24f9f238d1a1f
 Description: Restic is a modern backup program that can back up your files.
 Architecture: arm64
 License: BSD-2-Clause
