@@ -66,14 +66,14 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://restic.net
 
 Package: starship
-Version: 1.20.1-1
+Version: 1.21.1-1
 Priority: optional
 Section: admin
-Filename: pool/main/s/starship/starship_1.20.1-1_amd64.deb
-Size: 3993354
-SHA256: c787849034e0705525a8b4a0d7977351946b83a057c0ffdee750505b5b87ca5b
-SHA1: edecc3dc58aedab5bd0af7bf5bbad8833ad045f0
-MD5sum: aae77edb14c9ebe6d3a40542c41db289
+Filename: pool/main/s/starship/starship_1.21.1-1_amd64.deb
+Size: 4038690
+SHA256: 96138c6ef2b98f1be3b716faba4ee9dcb0df7fec2a2c525e20f0ed526f9dc7d1
+SHA1: 1bbf124103d3710c1f93da5b4d8345459c4575a8
+MD5sum: 91747c7631fef55c2d497e48a2de2f6d
 Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 Architecture: amd64
 License: ISC
