@@ -16,20 +16,20 @@ MD5sum: e319f6fb64a858320c4d9386ac51f0fb
 Description: no description given
 
 Package: rclone
-Version: 1.68.1
+Version: 1.68.2
 Architecture: amd64
 License: MIT
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 67128
+Installed-Size: 67135
 Provides: rclone
 Homepage: https://rclone.org
 Priority: extra
 Section: default
-Filename: pool/main/r/rclone/rclone_1.68.1_amd64.deb
-Size: 22981998
-SHA256: 87b8c52145a785742fa2dd151e028b5ec8e7ecfc8813474c29793b242b7cb42a
-SHA1: 698051980d8620dd08934837b7d0a9bd9bf7e7c0
-MD5sum: 4b3405bc54db50972822c8bf6b89252c
+Filename: pool/main/r/rclone/rclone_1.68.2_amd64.deb
+Size: 22990096
+SHA256: ee138bbc507deb8d2a854aec1a5128e5de0a4069102f2a4a17e62d80e45b0eb2
+SHA1: fb9717532959e5aa81464f4e506cf2fc13c11b33
+MD5sum: 69f2c36529ce04ddcfef53d0d4a9964e
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
@@ -79,47 +79,4 @@ Architecture: amd64
 License: ISC
 Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://starship.rs
-
-Package: vaultwarden
-Version: 1.32.1-0~bookworm
-Architecture: amd64
-Maintainer: dionysius <dragon.dionysius@gmail.com>
-Installed-Size: 31405
-Depends: adduser, coreutils, vaultwarden-web-vault, libc6 (>= 2.34), libgcc-s1 (>= 4.2), libmariadb3 (>= 3.0.0), libpq5, libssl3 (>= 3.0.0)
-Suggests: sqlite3 | postgresql | default-mysql-server | virtual-mysql-server
-Homepage: https://github.com/dani-garcia/vaultwarden
-Priority: optional
-Section: misc
-Filename: pool/main/v/vaultwarden/vaultwarden_1.32.1-0~bookworm_amd64.deb
-Size: 7962120
-SHA256: 5d18bec5cd679131d0636421ed19a77e33168a7e7b62a3da6167d0f2eafa542e
-SHA1: 004f4a4d9bc9edfdd33e3038999ffcf3b51a625e
-MD5sum: 8cd8999b1712ec687266e9c7e3170697
-Description: Unofficial Bitwarden compatible server written in Rust
- Alternative implementation of the Bitwarden server API written in Rust and
- compatible with upstream Bitwarden clients*, perfect for self-hosted
- deployment where running the official resource-heavy service might not be
- ideal.
- .
- This package contains the vaultwarden api server binary
-
-Package: vaultwarden-web-vault
-Version: 2024.6.2-0~bookworm
-Architecture: all
-Maintainer: dionysius <dragon.dionysius@gmail.com>
-Installed-Size: 47660
-Homepage: https://github.com/bitwarden/clients
-Priority: optional
-Section: web
-Filename: pool/main/v/vaultwarden-web-vault/vaultwarden-web-vault_2024.6.2-0~bookworm_all.deb
-Size: 7749676
-SHA256: 2b4a446c2582d21fc15ba587b7d744aed44bf17923077d9c4eb314a90a137de5
-SHA1: 988b388b140b575c6aae4edf6fd62717f1fb90b3
-MD5sum: 6c9fd551229e6109edcb74970ff063f2
-Description: Web vault frontend for vaultwarden server
- The vaultwarden web vault based on the bitwarden web vault with patches to make
- it work with vaultwarden.
- .
- This package contains the vaultwarden web vault frontend data
-Patches-From: https://github.com/dani-garcia/bw_web_builds
 
