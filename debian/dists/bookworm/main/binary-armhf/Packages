@@ -1,12 +1,12 @@
 Package: restic
-Version: 0.17.1-1
+Version: 0.17.3-1
 Priority: optional
 Section: admin
-Filename: pool/main/r/restic/restic_0.17.1-1_armhf.deb
-Size: 9009570
-SHA256: abafb086a642a48cf83b53c7c93cb76d1fdbcf7bb73c44eb1595c3032056f737
-SHA1: d4510582bcedbc7f65542e9084f09577d54dd387
-MD5sum: 722f3c85fb1fac2a1fe3956e00871edc
+Filename: pool/main/r/restic/restic_0.17.3-1_armhf.deb
+Size: 9013500
+SHA256: 541a3ced7d9707fdbfba45868612b478b4a8059e88570a01ddec51b20e4d2610
+SHA1: 4f790bd4003fb54e1a9a62169406d902e2f38152
+MD5sum: 2e72df16fdd9ce62b1166cec22800469
 Description: Restic is a modern backup program that can back up your files.
 Architecture: armhf
 License: BSD-2-Clause
