@@ -1,3 +1,20 @@
+Package: fastfetch
+Architecture: amd64
+Depends: libc6 (>= 2.31)
+Priority: optional
+Section: devel
+Filename: pool/main/f/fastfetch/fastfetch_2.33.0_amd64.deb
+Size: 7347718
+SHA256: 64448b642298dff687ac873a460d705af7e5a44c672f04a7b0df4e5de6bd0b42
+SHA1: 970890454801467bcb07b3e421bd5accd46284cb
+MD5sum: 0200a4d2134603d0fe11000dce17c950
+Description: Fast neofetch-like system information tool
+ fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
+Homepage: https://github.com/fastfetch-cli/fastfetch
+Maintainer: Linus Dierheimer <Linus@Dierheimer.de>
+Version: 2.33.0
+Installed-Size: 28284
+
 Package: pushover-cli
 Version: 1.0.4-1
 License: unknown
