@@ -33,20 +33,20 @@ MD5sum: e319f6fb64a858320c4d9386ac51f0fb
 Description: no description given
 
 Package: rclone
-Version: 1.68.2
+Version: 1.69.0
 Architecture: amd64
 License: MIT
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 67135
+Installed-Size: 69375
 Provides: rclone
 Homepage: https://rclone.org
 Priority: extra
 Section: default
-Filename: pool/main/r/rclone/rclone_1.68.2_amd64.deb
-Size: 22990096
-SHA256: ee138bbc507deb8d2a854aec1a5128e5de0a4069102f2a4a17e62d80e45b0eb2
-SHA1: fb9717532959e5aa81464f4e506cf2fc13c11b33
-MD5sum: 69f2c36529ce04ddcfef53d0d4a9964e
+Filename: pool/main/r/rclone/rclone_1.69.0_amd64.deb
+Size: 23665802
+SHA256: 5de54f24c74ece8592051b37067055ea155cc60aa3a20ed2a7a301c1f965a9d2
+SHA1: 7d6172daf7cbe5af5cc3eacd6159a83afb0aa304
+MD5sum: 7ab5dcc4688979da75aa11fac70de52f
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
@@ -83,14 +83,14 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://restic.net
 
 Package: starship
-Version: 1.21.1-1
+Version: 1.22.1-1
 Priority: optional
 Section: admin
-Filename: pool/main/s/starship/starship_1.21.1-1_amd64.deb
-Size: 4038690
-SHA256: 96138c6ef2b98f1be3b716faba4ee9dcb0df7fec2a2c525e20f0ed526f9dc7d1
-SHA1: 1bbf124103d3710c1f93da5b4d8345459c4575a8
-MD5sum: 91747c7631fef55c2d497e48a2de2f6d
+Filename: pool/main/s/starship/starship_1.22.1-1_amd64.deb
+Size: 4054446
+SHA256: 93df8a0ebc93d034166f232be28710ec5d55c1e3df1facb094967f19358e2565
+SHA1: 578eb497edddd16711a5198340ce068d7073a5fd
+MD5sum: d8a453de4dc31858a017b1cdab7d20d7
 Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 Architecture: amd64
 License: ISC

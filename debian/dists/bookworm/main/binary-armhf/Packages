@@ -31,14 +31,14 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://restic.net
 
 Package: starship
-Version: 1.21.1-1
+Version: 1.22.1-1
 Priority: optional
 Section: admin
-Filename: pool/main/s/starship/starship_1.21.1-1_armhf.deb
-Size: 3904422
-SHA256: 4d9edcb228fc62ebca7e48f84051e03f9ce02939937d4c86fe0042ebc8a080e7
-SHA1: 5ba97ac8d70c5c0c97ada651b46dc674a41b683d
-MD5sum: 7f59b80035ab1e697b89e126766f1755
+Filename: pool/main/s/starship/starship_1.22.1-1_armhf.deb
+Size: 3897384
+SHA256: 83f9713137dd715afc1afbbf8452f52eafb45aac7ccb90b0835a2b2bfefe1e48
+SHA1: f8e8f88603c035c28221ac0b31f692a57fcb6e04
+MD5sum: 37a00786541198fb5105947818329dda
 Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 Architecture: armhf
 License: ISC
