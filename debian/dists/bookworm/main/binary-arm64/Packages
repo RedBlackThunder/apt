@@ -3,16 +3,16 @@ Architecture: arm64
 Depends: libc6 (>= 2.31)
 Priority: optional
 Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.33.0_arm64.deb
-Size: 6973640
-SHA256: aedbf86852f90dd7a83638bce6c2b9ad85a7fab5478094376dbba15da1fe2b4c
-SHA1: 50dc09181f524977dafd97fc10e5ac55983301a3
-MD5sum: c8a0f95ec390aa300efb8d5db2f3ca70
+Filename: pool/main/f/fastfetch/fastfetch_2.35.0_arm64.deb
+Size: 7049392
+SHA256: 053110582a4f81a30beac88f19446dc85230d65de247abdd16051cc9af7851ad
+SHA1: c16292c2df831ce9af26f715d3890eed8e3a14be
+MD5sum: d4b69a6d0546dce71dca6d7e50ab116a
 Description: Fast neofetch-like system information tool
  fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
 Maintainer: Linus Dierheimer <Linus@Dierheimer.de>
-Version: 2.33.0
-Installed-Size: 26706
+Version: 2.35.0
+Installed-Size: 26919
 
 Package: rclone
 Version: 1.69.0
