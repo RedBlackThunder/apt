@@ -3,34 +3,17 @@ Architecture: amd64
 Depends: libc6 (>= 2.31)
 Priority: optional
 Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.36.1_amd64.deb
-Size: 7423210
-SHA256: dd781479a4bfa02b5cde6152dab49c6e220a7b8a9cf8f7ff5ea16971cfc0a181
-SHA1: 6dd25f83c067976ab0a0e140303d05596b3b74f3
-MD5sum: 8bf15c6a751099d6b6515f3b062c5daa
+Filename: pool/main/f/fastfetch/fastfetch_2.39.1_amd64.deb
+Size: 7506474
+SHA256: f2d97f0e4db44700a2ddc67d67641405e7d880da2d6e3f8cb0c4b0a3c6968bc2
+SHA1: 5c808010afcbcb50804985e15d9b8e1ef2bc622f
+MD5sum: e7bba42e6d97a492ae05495f2e7a1e92
 Description: Fast neofetch-like system information tool
  fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
 Homepage: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Linus Dierheimer <Linus@Dierheimer.de>
-Version: 2.36.1
-Installed-Size: 28491
-
-Package: pushover-cli
-Version: 1.0.4-1
-License: unknown
-Vendor: CoSolIT
-Architecture: amd64
-Maintainer: Florian Frank <frank@cosolit.de>
-Installed-Size: 6372
-Homepage: https://github.com/adrianrudnik/pushover-cli
-Priority: extra
-Section: default
-Filename: pool/main/p/pushover-cli/pushover-cli_1.0.4-1_amd64.deb
-Size: 2684540
-SHA256: 6814a8d2075cfb103d400760a4a7ce4ba50c35fbbf512ec7ebe14367107e5467
-SHA1: 7d6f21e6769087aac9182c0fd4ea0c28c1338078
-MD5sum: e319f6fb64a858320c4d9386ac51f0fb
-Description: no description given
+Version: 2.39.1
+Installed-Size: 28836
 
 Package: rclone
 Version: 1.69.1
