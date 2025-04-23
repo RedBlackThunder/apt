@@ -1,19 +1,19 @@
 Package: fastfetch
 Architecture: amd64
-Depends: libc6 (>= 2.31)
+Depends: libc6 (>= 2.35)
 Priority: optional
 Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.40.4_amd64.deb
-Size: 7529550
-SHA256: 8279ac5a57232f25b72f93649fedc8fe4eb40a3892c6357a2cce69664791c4a7
-SHA1: 8dc630fcde0b4b5382911e649a26598999a8514e
-MD5sum: 9725381e4df2451943a15727ae17cafd
+Filename: pool/main/f/fastfetch/fastfetch_2.41.0_amd64.deb
+Size: 7088844
+SHA256: c4560af07e336256ca2d492015f9fb49b6953677d49f790033236a4e1b325828
+SHA1: d507b7c910c5fa7b921255e83b7dd3af4362dc2a
+MD5sum: bc73d53861f1d0c74cfe3f69137daa34
 Description: Fast neofetch-like system information tool
  fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
 Homepage: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Linus Dierheimer <Linus@Dierheimer.de>
-Version: 2.40.4
-Installed-Size: 28873
+Version: 2.41.0
+Installed-Size: 18622
 
 Package: rclone
 Version: 1.69.1
@@ -51,14 +51,14 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://restic.net
 
 Package: restic
-Version: 0.17.3-1
+Version: 0.18.0-1
 Priority: optional
 Section: admin
-Filename: pool/main/r/restic/restic_0.17.3-1_amd64.deb
-Size: 9720398
-SHA256: e243d747a784b129e512f688fa94031c53e09069b6300d0afc9193346b05d67e
-SHA1: 58d45b04136d42711629bca0c87841cb0f37d8ba
-MD5sum: fb9c6ad3099293de16f008eab8fd8212
+Filename: pool/main/r/restic/restic_0.18.0-1_amd64.deb
+Size: 10671954
+SHA256: 9d8bc75659791188dbffdcbc4c13a38c2a28cb308f1c69db3cfb19cc2f543564
+SHA1: b3e2ba5a5d9f84fc3a42c27e37e10f50bbc6a784
+MD5sum: 923329d429b9e9116bf9e020b6e49a47
 Description: Restic is a modern backup program that can back up your files.
 Architecture: amd64
 License: BSD-2-Clause
