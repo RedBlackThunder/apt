@@ -3,17 +3,17 @@ Architecture: arm64
 Depends: libc6 (>= 2.35)
 Priority: optional
 Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.41.0_arm64.deb
-Size: 6972614
-SHA256: 9f597720aafa71b9176f9da56bdc5810c5c72a817ef385e666a485aeb607fda0
-SHA1: 07048b315aae09970ae7ff1a3808fd533e9ba0b3
-MD5sum: b7fbf233975eebb27ed02beff7d82fda
+Filename: pool/main/f/fastfetch/fastfetch_2.42.0_arm64.deb
+Size: 6977500
+SHA256: ce399ae988fbd8211028ec69801cfe2e2ace95f85989841754cb3d66de7c3b69
+SHA1: 7bb2b272ba693e700bef8207d7d5d91130e21077
+MD5sum: 32528017e669fad318d9932816690a31
 Description: Fast neofetch-like system information tool
  fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
 Homepage: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Linus Dierheimer <Linus@Dierheimer.de>
-Version: 2.41.0
-Installed-Size: 18748
+Version: 2.42.0
+Installed-Size: 18760
 
 Package: rclone
 Version: 1.69.1
@@ -51,14 +51,14 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://restic.net
 
 Package: starship
-Version: 1.22.1-1
+Version: 1.23.0-1
 Priority: optional
 Section: admin
-Filename: pool/main/s/starship/starship_1.22.1-1_arm64.deb
-Size: 3690614
-SHA256: 3637128a6990bbff407fad4472e9137c15f28260b05a93e2b42c1d5f5c7720e2
-SHA1: 6a57caac0d43c56fe312c34a5ac8519c59c0d08b
-MD5sum: 932d2fdec5da94bb391b084b1bdb7c39
+Filename: pool/main/s/starship/starship_1.23.0-1_arm64.deb
+Size: 4456488
+SHA256: 137e0905695436122799430e9a9ae54d59fcae0559740e7ce5d89e5069a13bdd
+SHA1: 54a62b27f77a32993aa704d4ace1321a83c56b08
+MD5sum: 03f113183862b0dc9fe5b88a68c1abd5
 Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 Architecture: arm64
 License: ISC
