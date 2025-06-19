@@ -16,20 +16,20 @@ Version: 2.45.0
 Installed-Size: 19084
 
 Package: rclone
-Version: 1.69.3
+Version: 1.70.1
 Architecture: arm64
 License: MIT
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 66373
+Installed-Size: 70534
 Provides: rclone
 Homepage: https://rclone.org
 Priority: extra
 Section: default
-Filename: pool/main/r/rclone/rclone_1.69.3_arm64.deb
-Size: 22127836
-SHA256: 17f74effee5f108a4014ec7d468eac997c32317a8cac0d0d2df748bdc59e0c61
-SHA1: 4833a684bad39c8aaa83ad9dd3dcc7f36193317c
-MD5sum: aa8604d4d770896b360442ee7d02b28c
+Filename: pool/main/r/rclone/rclone_1.70.1_arm64.deb
+Size: 23538194
+SHA256: ba7d63b60ee5d146ec25e6aa5944b1cde9d05c5c8c110183c325b33223e19409
+SHA1: a1321fec6f4f5c1e4642d3390a6f61d8020023ba
+MD5sum: 1f27de300c9cdc74720b39134544516e
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
