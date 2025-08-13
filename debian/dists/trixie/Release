@@ -1,0 +1,37 @@
+Origin: CoSolIT
+Label: CoSolIT
+Suite: stable
+Codename: trixie
+Date: Wed, 13 Aug 2025 11:34:01 UTC
+Architectures: amd64 armhf arm64
+Components: main
+MD5Sum:
+ e1326c12f60fcdda05aca869640a4c03 2341 main/binary-amd64/Packages
+ 4f0a6a15746610ad9750860b64755692 1195 main/binary-amd64/Packages.gz
+ 3318334e86908433600c506be81501e0 83 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 16db6212ae61a24b1a9921bdd7c58c1f 20 main/binary-armhf/Packages.gz
+ 6ea6ea63eeeace2921db2b51fa2992e9 83 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 16db6212ae61a24b1a9921bdd7c58c1f 20 main/binary-arm64/Packages.gz
+ 9a77256ac48b30e8e48ece7a69f92f4a 83 main/binary-arm64/Release
+SHA1:
+ a9ecfdb08d11e1d0a0ecbead69aa34ff35dd4332 2341 main/binary-amd64/Packages
+ 470f1ef2b03ba413fb6092bfddaf1bf32ce45a5a 1195 main/binary-amd64/Packages.gz
+ 672367e284fcd3ba3a3669ba8918f9ebac06ca3a 83 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ b9693a53bcffe40b2cc2c37045561f848baaa22a 20 main/binary-armhf/Packages.gz
+ e708bed25f10a16d6dae8f5060366523c472212f 83 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ b9693a53bcffe40b2cc2c37045561f848baaa22a 20 main/binary-arm64/Packages.gz
+ 7caf186e9efb80bb750a1dba3c0d38e0210f933a 83 main/binary-arm64/Release
+SHA256:
+ 6297fdf447539b40e1c8bdc986964e46e04c50c9d72398e21961a93a5ec1bee5 2341 main/binary-amd64/Packages
+ 1d5fcd2ced4c1f59de34c0c98c3b1f51ac950f1014c7059519c899e79b3576f1 1195 main/binary-amd64/Packages.gz
+ cffa8574efc5486a5d8bf6cc158c4da2b377ada9d995974f2f738208c747498d 83 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ abfbb86f9f5ddfbd9fc1a72c43ab384702ce8bae86b60f3324748485e235e61e 20 main/binary-armhf/Packages.gz
+ 9bdb421a0a80bc9342f63f4441a60e6572b9e8809ec1d56bb62f91c0fe8f6bb5 83 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ abfbb86f9f5ddfbd9fc1a72c43ab384702ce8bae86b60f3324748485e235e61e 20 main/binary-arm64/Packages.gz
+ b49d38fdee237ea8916750957e0930c255363d51e7f9c6ba207e83953be2b94d 83 main/binary-arm64/Release
