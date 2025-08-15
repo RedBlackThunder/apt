@@ -35,6 +35,21 @@ Description: Rclone - "rsync for cloud storage"
  from most cloud providers. It can also mount, tree, ncdu and lots
  of other useful things.
 
+Package: rest-server
+Version: 0.14.0-1
+Priority: optional
+Section: admin
+Filename: pool/main/r/rest-server/rest-server_0.14.0-1_amd64.deb
+Size: 3740812
+SHA256: f423369b48ff2446d259d6b7cb6698aaa8bebbcabe2a0aea83f3b692adf8ed8e
+SHA1: 10459a91410a11eb4cc0e478899aa52593bb7470
+MD5sum: 18a5e1d1d0d2ad272fce0025a08b2532
+Description: Rest Server is a high performance HTTP server that implements restic REST backend API.
+Architecture: amd64
+License: BSD-2-Clause
+Maintainer: Florian Frank <frank@cosolit.de>
+Homepage: https://restic.net
+
 Package: restic
 Version: 0.18.0-1
 Priority: optional

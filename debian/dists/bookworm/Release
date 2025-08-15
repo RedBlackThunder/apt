@@ -2,12 +2,12 @@ Origin: CoSolIT
 Label: CoSolIT
 Suite: oldstable
 Codename: bookworm
-Date: Wed, 13 Aug 2025 11:33:48 UTC
+Date: Fri, 15 Aug 2025 19:42:34 UTC
 Architectures: amd64 armhf arm64
 Components: main
 MD5Sum:
- 7855bc8eacdadb21689c28708f49d604 530 main/binary-amd64/Packages
- b5d94bc62dbf378bb83c02bff4cba676 398 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
  3318334e86908433600c506be81501e0 83 main/binary-amd64/Release
  185be7dd5915eccedb1de3c249f1c767 1692 main/binary-armhf/Packages
  d23352b03c4b5d50252acc68707e6df5 892 main/binary-armhf/Packages.gz
@@ -16,8 +16,8 @@ MD5Sum:
  07a41f4500eab27040251f8990fbde26 1193 main/binary-arm64/Packages.gz
  9a77256ac48b30e8e48ece7a69f92f4a 83 main/binary-arm64/Release
 SHA1:
- 5f1e199e5858973b4873b17d22296744acd99707 530 main/binary-amd64/Packages
- 2f7bba5e574cda6a0d18961fd2f470cca4a2b1d0 398 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
  672367e284fcd3ba3a3669ba8918f9ebac06ca3a 83 main/binary-amd64/Release
  77a40363ad295947bd734e2c698f3ab9b040f3b8 1692 main/binary-armhf/Packages
  afea4d6f522afdf32a38a845f7b2be9999f89216 892 main/binary-armhf/Packages.gz
@@ -26,8 +26,8 @@ SHA1:
  6a136b3ec474e816c5f7935d4f393c7286f759f3 1193 main/binary-arm64/Packages.gz
  7caf186e9efb80bb750a1dba3c0d38e0210f933a 83 main/binary-arm64/Release
 SHA256:
- 35facff6933342137a6ded0aec27e14832e899edd5487ab69dfeaa566dd28d43 530 main/binary-amd64/Packages
- a282819b704dcd8e1c1b623cb2d53a56fa46fa5af7e27eee76b5cfcbe13d19d3 398 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
  cffa8574efc5486a5d8bf6cc158c4da2b377ada9d995974f2f738208c747498d 83 main/binary-amd64/Release
  e5cafe170062e925451ebb898c7a1432e69be63a8168626695b026e02dc8651e 1692 main/binary-armhf/Packages
  2ba4b340f15494817a6da8bc735aec9e5289885b49c9d4131058b5fbbbe70ec4 892 main/binary-armhf/Packages.gz

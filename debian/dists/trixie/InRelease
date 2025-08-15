@@ -5,12 +5,12 @@ Origin: CoSolIT
 Label: CoSolIT
 Suite: stable
 Codename: trixie
-Date: Wed, 13 Aug 2025 11:34:01 UTC
+Date: Fri, 15 Aug 2025 19:42:04 UTC
 Architectures: amd64 armhf arm64
 Components: main
 MD5Sum:
- e1326c12f60fcdda05aca869640a4c03 2341 main/binary-amd64/Packages
- 4f0a6a15746610ad9750860b64755692 1195 main/binary-amd64/Packages.gz
+ 8b9df661283d47114cf6a579e21de9f4 2871 main/binary-amd64/Packages
+ 352e689dac119b03d29c5d959fc75fc5 1380 main/binary-amd64/Packages.gz
  3318334e86908433600c506be81501e0 83 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
  16db6212ae61a24b1a9921bdd7c58c1f 20 main/binary-armhf/Packages.gz
@@ -19,8 +19,8 @@ MD5Sum:
  16db6212ae61a24b1a9921bdd7c58c1f 20 main/binary-arm64/Packages.gz
  9a77256ac48b30e8e48ece7a69f92f4a 83 main/binary-arm64/Release
 SHA1:
- a9ecfdb08d11e1d0a0ecbead69aa34ff35dd4332 2341 main/binary-amd64/Packages
- 470f1ef2b03ba413fb6092bfddaf1bf32ce45a5a 1195 main/binary-amd64/Packages.gz
+ b05a00f21e3f41277aaa3080ea139c88b26bbd86 2871 main/binary-amd64/Packages
+ 6f88d132f6ef8171e986833daddfb93678a2c535 1380 main/binary-amd64/Packages.gz
  672367e284fcd3ba3a3669ba8918f9ebac06ca3a 83 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
  b9693a53bcffe40b2cc2c37045561f848baaa22a 20 main/binary-armhf/Packages.gz
@@ -29,8 +29,8 @@ SHA1:
  b9693a53bcffe40b2cc2c37045561f848baaa22a 20 main/binary-arm64/Packages.gz
  7caf186e9efb80bb750a1dba3c0d38e0210f933a 83 main/binary-arm64/Release
 SHA256:
- 6297fdf447539b40e1c8bdc986964e46e04c50c9d72398e21961a93a5ec1bee5 2341 main/binary-amd64/Packages
- 1d5fcd2ced4c1f59de34c0c98c3b1f51ac950f1014c7059519c899e79b3576f1 1195 main/binary-amd64/Packages.gz
+ 5316ad048377ceb5980b4a1468f511212b4e16d48d000c560c1ca599988cf272 2871 main/binary-amd64/Packages
+ 48c72c473865ec8c22730e3e22111f7cc287c3d83a5df2ede4a33ab1cba458aa 1380 main/binary-amd64/Packages.gz
  cffa8574efc5486a5d8bf6cc158c4da2b377ada9d995974f2f738208c747498d 83 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
  abfbb86f9f5ddfbd9fc1a72c43ab384702ce8bae86b60f3324748485e235e61e 20 main/binary-armhf/Packages.gz
@@ -40,8 +40,8 @@ SHA256:
  b49d38fdee237ea8916750957e0930c255363d51e7f9c6ba207e83953be2b94d 83 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQogLWLo2TSy9MvbTrxTdwM1QTLIgUCaJx4KQAKCRDxTdwM1QTL
-IpuDAP9QIbs2KNE2WslNZJ/1Im8zfEGca/nadhMpPZ62m24s9gD/brlKz6yOZ/IS
-r0VpaTB5F+k24Dtbx0Ep0qbIQYZ4DAY=
-=irdV
+iHUEARYKAB0WIQQogLWLo2TSy9MvbTrxTdwM1QTLIgUCaJ+NkQAKCRDxTdwM1QTL
+IkmqAQD7pH8KNuBXy/p/4HqJusAEFjBNz9oKvNSQj6jkOMKiiAD/WTHky4QBUHaB
+sJ6Psr6502155rp9uoq86yTCEvddqAU=
+=LS3H
 -----END PGP SIGNATURE-----
