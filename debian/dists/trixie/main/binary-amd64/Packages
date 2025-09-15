@@ -3,33 +3,33 @@ Architecture: amd64
 Depends: libc6 (>= 2.35)
 Priority: optional
 Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.50.2_amd64.deb
-Size: 5070312
-SHA256: 49a98e8ac74d6d893b4c0ba3d982e75432c7e9bc34795cdfd85a3f718fdfb668
-SHA1: fde55d4a443263c413a03e0e23f17063b1aa4692
-MD5sum: 7b12677f95968ada18cecb4a0d44265d
+Filename: pool/main/f/fastfetch/fastfetch_2.52.0_amd64.deb
+Size: 5268356
+SHA256: bc7d840928c8368e136335fc332757743eeb0846bc814e5af10df5ef74961845
+SHA1: dcc786b1252ff8f62b1a380f6ff972af81c1e111
+MD5sum: 0b1ccf99f44709f4fc3745d9e38d491f
 Description: Fast neofetch-like system information tool
  fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
 Homepage: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Linus Dierheimer <Linus@Dierheimer.de>
-Version: 2.50.2
-Installed-Size: 13669
+Version: 2.52.0
+Installed-Size: 14107
 
 Package: rclone
-Version: 1.70.3
+Version: 1.71.0
 Architecture: amd64
 License: MIT
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 74349
+Installed-Size: 76032
 Provides: rclone
 Homepage: https://rclone.org
 Priority: extra
 Section: default
-Filename: pool/main/r/rclone/rclone_1.70.3_amd64.deb
-Size: 25356608
-SHA256: 9a77ef42c25162de53354f179d76418a7150caea331617a59a6ebecd29a36845
-SHA1: a9b398b13a3e27d196c8d346c5861d61a41b1d4b
-MD5sum: 6ad476cd63a78180338b9ad57c3fa841
+Filename: pool/main/r/rclone/rclone_1.71.0_amd64.deb
+Size: 25847346
+SHA256: 53e35eac5cb5e6e4a9cc04ffe28d5ace695fd335a156f8d17b11df37739b725f
+SHA1: e6120f26a80426dbf98a2a07268b5499c2dbf7b3
+MD5sum: 8c71fb13559affc14fbb055564285504
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
