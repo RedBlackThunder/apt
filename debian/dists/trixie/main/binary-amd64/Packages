@@ -51,14 +51,14 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://restic.net
 
 Package: restic
-Version: 0.18.0-1
+Version: 0.18.1-1
 Priority: optional
-Section: misc
-Filename: pool/main/r/restic/restic_0.18.0-1_amd64.deb
-Size: 10671954
-SHA256: 9d8bc75659791188dbffdcbc4c13a38c2a28cb308f1c69db3cfb19cc2f543564
-SHA1: b3e2ba5a5d9f84fc3a42c27e37e10f50bbc6a784
-MD5sum: 923329d429b9e9116bf9e020b6e49a47
+Section: admin
+Filename: pool/main/r/restic/restic_0.18.1-1_amd64.deb
+Size: 11066356
+SHA256: 67ec09b406a29f1dccba7f55fd13497839d7579e59df341e15f39eb689ed8272
+SHA1: 78e71e56bb101fbed740929e79805345d390c4d5
+MD5sum: a489da18ca09598ee42d60de25a09cb4
 Description: Restic is a modern backup program that can back up your files.
 Architecture: amd64
 License: BSD-2-Clause
