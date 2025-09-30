@@ -2,36 +2,36 @@ Origin: CoSolIT
 Label: CoSolIT
 Suite: stable
 Codename: trixie
-Date: Tue, 30 Sep 2025 19:53:18 UTC
+Date: Tue, 30 Sep 2025 20:00:43 UTC
 Architectures: amd64 armhf arm64
 Components: main
 MD5Sum:
  fc3d7288315cf3182b3c02d6736ffe06 2872 main/binary-amd64/Packages
  5e0da00ca470181f4e49663ea7ee3870 1373 main/binary-amd64/Packages.gz
  3318334e86908433600c506be81501e0 83 main/binary-amd64/Release
- 3071eccdcf10191463c8677861e81226 1692 main/binary-armhf/Packages
- 5bf6805710b5e7b74f87604f3d2dbd6d 891 main/binary-armhf/Packages.gz
+ 26682da644df1d75ad18c6ddd5544d6e 1692 main/binary-armhf/Packages
+ a12cdf8b00a31a8702f37322979c9206 891 main/binary-armhf/Packages.gz
  6ea6ea63eeeace2921db2b51fa2992e9 83 main/binary-armhf/Release
- 6a640d59b40697ec1fcd0b89996c4b28 2341 main/binary-arm64/Packages
- 62ed0ffc2e3a149834a3a4549304f81b 1187 main/binary-arm64/Packages.gz
+ 9db9b05cbfddffac0b00b99b960e4c64 2342 main/binary-arm64/Packages
+ 590f1071941129c4686110e7b83477aa 1188 main/binary-arm64/Packages.gz
  9a77256ac48b30e8e48ece7a69f92f4a 83 main/binary-arm64/Release
 SHA1:
  e634c4e829bd1cb524b1d71988061140d9d5896a 2872 main/binary-amd64/Packages
  ea44eae235c06f19702c8cdab29315c275fac081 1373 main/binary-amd64/Packages.gz
  672367e284fcd3ba3a3669ba8918f9ebac06ca3a 83 main/binary-amd64/Release
- f68f413e226cf04473879f35ba80f382bcc96933 1692 main/binary-armhf/Packages
- 0057ddb9aec7db726acd4bf21088e294f484ec49 891 main/binary-armhf/Packages.gz
+ 7abb031397f5976b4b48b0a1fbd90f841bf093b2 1692 main/binary-armhf/Packages
+ a1ab46ce24faa1f0e6af06899c4d2f9d7d9d121e 891 main/binary-armhf/Packages.gz
  e708bed25f10a16d6dae8f5060366523c472212f 83 main/binary-armhf/Release
- 4fb347556a85800c1fec03d8f3dcc987260a3229 2341 main/binary-arm64/Packages
- ab298a6489fca199bd91fe6173d994a55f18a4ee 1187 main/binary-arm64/Packages.gz
+ f7616fca047c61238f7feb788a333f93b3b59155 2342 main/binary-arm64/Packages
+ 988324070e60c4f9d4e8302eb21ce73e9634f2ac 1188 main/binary-arm64/Packages.gz
  7caf186e9efb80bb750a1dba3c0d38e0210f933a 83 main/binary-arm64/Release
 SHA256:
  523fa06734daf8614bc5998ce52833604912a2311a60e48be2eb81c130681a1c 2872 main/binary-amd64/Packages
  b3abe95a27720ea3f11f1c5347a754de093b50c9150e378a587ea0b2f2b6b5fe 1373 main/binary-amd64/Packages.gz
  cffa8574efc5486a5d8bf6cc158c4da2b377ada9d995974f2f738208c747498d 83 main/binary-amd64/Release
- 93011f5ed7e02d64fca7a2895c1584dbbe764c226ffcee6443961031eeb2af39 1692 main/binary-armhf/Packages
- 6440b6efe8af3dbb6a86a69f3113ee25cdcc108475632cb3202a78d6573903e2 891 main/binary-armhf/Packages.gz
+ 5fd6e272a5c3fe3d1e17794a98fc4f8c15d3fa9d55dab39e57768b9bf864fcb6 1692 main/binary-armhf/Packages
+ 6b6ae6d7d5a1c7d1a7c876647279b243b84d8d232cc76631e5b20da1025fddfc 891 main/binary-armhf/Packages.gz
  9bdb421a0a80bc9342f63f4441a60e6572b9e8809ec1d56bb62f91c0fe8f6bb5 83 main/binary-armhf/Release
- 5682a7423eeb359eeb18bb5284e1610bc11be59c71aad3104d8bcf3546a13838 2341 main/binary-arm64/Packages
- 2fd9a3784b6930e47e16bee9baad2477c3bbf580e52e5f706be890078fa96763 1187 main/binary-arm64/Packages.gz
+ 82cd6426179bb12f7a47a21a6195de715337df36d4596bf8d8345695c20b1ea0 2342 main/binary-arm64/Packages
+ 0720e38966ff0f80780eb9bc85bbf7a28239e1273d03db2e8924bb78ec529b08 1188 main/binary-arm64/Packages.gz
  b49d38fdee237ea8916750957e0930c255363d51e7f9c6ba207e83953be2b94d 83 main/binary-arm64/Release
