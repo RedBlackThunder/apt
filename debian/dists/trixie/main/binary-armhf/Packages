@@ -3,17 +3,17 @@ Architecture: armhf
 Depends: libc6 (>= 2.36)
 Priority: optional
 Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.55.0_armhf.deb
-Size: 4881282
-SHA256: 8df97b7e25eee635cac87fb1a974f8db7755adfc31b39433c32c2b6ef8ec6652
-SHA1: 38fe2c4f40b8e8ea1c87498c6130d62f1674fb18
-MD5sum: a504628dcb7681e04136cbb53dbd0e2d
+Filename: pool/main/f/fastfetch/fastfetch_2.55.1_armhf.deb
+Size: 4880512
+SHA256: 4932353b39ab47618a523645f87cb2d77ec6b4dd4bfea5b3abce78956aa98619
+SHA1: 9ab3289f7b1ba01a1b86bf59bf4e6ebea153b449
+MD5sum: 8dec569d6d65431d7331c9a6ad263e2c
 Description: Fast neofetch-like system information tool
  fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
 Homepage: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Carter Li <zhangsongcui@live.cn>
-Version: 2.55.0
-Installed-Size: 12296
+Version: 2.55.1
+Installed-Size: 12295
 
 Package: restic
 Version: 0.18.1-1
@@ -31,14 +31,14 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://restic.net
 
 Package: starship
-Version: 1.24.0-1
+Version: 1.24.1-1
 Priority: optional
 Section: admin
-Filename: pool/main/s/starship/starship_1.24.0-1_armhf.deb
-Size: 4784836
-SHA256: d6003a7c585ca78bdca12885a43215aa3dc444e096bd39298798ec25d78fe6ea
-SHA1: 017832988ad4f0ee994a248434de8ca6853cef42
-MD5sum: 96db1cc2fa7eeddf65f85e5584a06de1
+Filename: pool/main/s/starship/starship_1.24.1-1_armhf.deb
+Size: 4790324
+SHA256: 54da810b1106d8ec0b2d95c7a3a88ec4dde56e3b5d783d205400be7d8781c922
+SHA1: f84f4de0c4566d5f87682fbd43f0a82e7a8715d5
+MD5sum: f78713bb2543f40faccf995256a2a8a8
 Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 Architecture: armhf
 License: ISC
