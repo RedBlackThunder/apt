@@ -3,33 +3,33 @@ Architecture: arm64
 Depends: libc6 (>= 2.35)
 Priority: optional
 Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.55.1_arm64.deb
-Size: 5368404
-SHA256: 75f37e57ada3ddf3060b3208ade3f3fe96593cdf07e8ebaa45ffcf1070c73978
-SHA1: 490f426032df0b032f86d4a49d7239a778d6b4cf
-MD5sum: 6f0594e10bd806b024630b77b16c951c
+Filename: pool/main/f/fastfetch/fastfetch_2.57.1_arm64.deb
+Size: 5443564
+SHA256: 9b5733b8a49aba9d3ca6218ec9a882ff79e414f6daaf822d0dcc66d0a4e27af2
+SHA1: d49add9458c9920073a6c420a248dfc514c20a9c
+MD5sum: 7f1ea975ccb50773a8c45b634d107e64
 Description: Fast neofetch-like system information tool
  fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
 Homepage: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Carter Li <zhangsongcui@live.cn>
-Version: 2.55.1
-Installed-Size: 14906
+Version: 2.57.1
+Installed-Size: 15086
 
 Package: rclone
-Version: 1.72.0
+Version: 1.72.1
 Architecture: arm64
 License: MIT
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 75264
+Installed-Size: 75274
 Provides: rclone
 Homepage: https://rclone.org
 Priority: extra
 Section: default
-Filename: pool/main/r/rclone/rclone_1.72.0_arm64.deb
-Size: 25312822
-SHA256: e7f5e53d89fd54856a56cb1538bdc7dc848bcb9009d513f8c66c1eb2e336021d
-SHA1: 25e609ef057a542fd5f8f0a4f50c0b326c8aa506
-MD5sum: 203d22a4fe2f310b54dd2d9dda886fef
+Filename: pool/main/r/rclone/rclone_1.72.1_arm64.deb
+Size: 25319494
+SHA256: 92b6a4ae01b942f46bbaaee031a38807a8dc67164bcf1d3dda50deeec941653a
+SHA1: e0854738e969c34fbf037e29b4b86c0ed91d76ba
+MD5sum: 7c72f76fe3d3022164bfff134cbc2433
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
@@ -51,14 +51,14 @@ Maintainer: Florian Frank <frank@cosolit.de>
 Homepage: https://restic.net
 
 Package: starship
-Version: 1.24.1-1
+Version: 1.24.2-1
 Priority: optional
 Section: admin
-Filename: pool/main/s/starship/starship_1.24.1-1_arm64.deb
-Size: 4608900
-SHA256: df963b97fac20d30d38e78c67fc9f6ebbe7c9a60c212028b306de8d049ba5de2
-SHA1: 025ee0355ae33011d441d22ad6c77ea7211b69d8
-MD5sum: d0d905efc7d95c4c7cd08b04642a82ad
+Filename: pool/main/s/starship/starship_1.24.2-1_arm64.deb
+Size: 4607480
+SHA256: 3b2ab0cc2b2570362cb453960a506dc857041f1d3e6d459694a53f879721dcd5
+SHA1: 1a68dbd52ed842ddf152bec30695a1ec3b14898e
+MD5sum: c9a27f1fd3741d843c68639a7316d84c
 Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 Architecture: arm64
 License: ISC
