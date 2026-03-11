@@ -5,43 +5,43 @@ Origin: CoSolIT
 Label: CoSolIT
 Suite: stable
 Codename: trixie
-Date: Fri, 27 Feb 2026 03:11:11 UTC
+Date: Wed, 11 Mar 2026 22:44:44 UTC
 Architectures: amd64 armhf arm64
 Components: main
 MD5Sum:
- 047016f165298354f261a37a0b9b5618 2866 main/binary-amd64/Packages
- cf1e8c32a00141d9d07193851a01dd61 1375 main/binary-amd64/Packages.gz
+ 70403177b54d975e9c7a1e0bbc3fdf47 3341 main/binary-amd64/Packages
+ fe63d90c73c82efb6602e0cd53acffb4 1570 main/binary-amd64/Packages.gz
  3318334e86908433600c506be81501e0 83 main/binary-amd64/Release
- 292154c259af1463318ee8247765bb6d 1686 main/binary-armhf/Packages
- 6b319dc9fc3ec0e0ec50b5f3aa351b8e 897 main/binary-armhf/Packages.gz
+ c56ada9fd606e6a47d971a7533ed95fb 2161 main/binary-armhf/Packages
+ 19324300299da5607583379e592a4535 1094 main/binary-armhf/Packages.gz
  6ea6ea63eeeace2921db2b51fa2992e9 83 main/binary-armhf/Release
- ee61d88928ce8a5b9f0ac35a94a6d32f 2336 main/binary-arm64/Packages
- 304eae380d6e732cabb86170bdea8b5e 1192 main/binary-arm64/Packages.gz
+ 37957bad52e40f49e95fcf0f9775c37a 2811 main/binary-arm64/Packages
+ 04fb33812d36be8fc3c4870a3e053b86 1392 main/binary-arm64/Packages.gz
  9a77256ac48b30e8e48ece7a69f92f4a 83 main/binary-arm64/Release
 SHA1:
- 8b6416ab7a9fc3a05a6b54e85906ada7d6cac077 2866 main/binary-amd64/Packages
- e68f2ed61fa68be09aa8802a986fe3dfb36ef9c4 1375 main/binary-amd64/Packages.gz
+ f952f92d073c01172389056fb3cb3f5e79e84f81 3341 main/binary-amd64/Packages
+ d9845bf47770e668ccd88e0c9c7aa9ed202d12ae 1570 main/binary-amd64/Packages.gz
  672367e284fcd3ba3a3669ba8918f9ebac06ca3a 83 main/binary-amd64/Release
- 1be91ae5a2e2903b0a05221f632d30c4828c3822 1686 main/binary-armhf/Packages
- 22d01b4a856eb986999b998c852204efea8a0ca0 897 main/binary-armhf/Packages.gz
+ 1c526fdb49ea1effb26c8533521970c9cba0f1d6 2161 main/binary-armhf/Packages
+ f659cbd616434338a2aea9dc2dc99bb74dc08364 1094 main/binary-armhf/Packages.gz
  e708bed25f10a16d6dae8f5060366523c472212f 83 main/binary-armhf/Release
- 2ee891f1a9c3145f8ae781c3964964251105553b 2336 main/binary-arm64/Packages
- 31b1a9b6d38c4c731e937982360d36c5124f41e3 1192 main/binary-arm64/Packages.gz
+ ce9933552b86745713afbe1a7d00fc1b048314bd 2811 main/binary-arm64/Packages
+ bd117d607afb314b1229e3f6b9c4c70043ad845c 1392 main/binary-arm64/Packages.gz
  7caf186e9efb80bb750a1dba3c0d38e0210f933a 83 main/binary-arm64/Release
 SHA256:
- a70533caffafb83f621701b2274f2386b751fa5f55abbe19a39a47b3824ea317 2866 main/binary-amd64/Packages
- b2947b80d7c87e6dcdb528b86d40428317daac4bf11d09ad850092adbe197a5e 1375 main/binary-amd64/Packages.gz
+ ab5b4023e3128b82994ec1c76a1412c1002689c7a7d0318a45d22e885dcbe673 3341 main/binary-amd64/Packages
+ 107697f27d85c5b88c7e81891b2ce02e1b3a16ffd85731c21a57585a134f81db 1570 main/binary-amd64/Packages.gz
  cffa8574efc5486a5d8bf6cc158c4da2b377ada9d995974f2f738208c747498d 83 main/binary-amd64/Release
- db936fd3033180db8e8d874c2b3cb2b947c5e7410474e7d40e16dd91efa5aa74 1686 main/binary-armhf/Packages
- 926f7b2ff614f8ea5e8feaf00c4384924e7e6c0dcd55c98211a358119c405b4e 897 main/binary-armhf/Packages.gz
+ 19f83942e59cd00276bd6a422e7effc3b98d967ec912c69b2137f1b301b52fb8 2161 main/binary-armhf/Packages
+ bcce5e9cabc7a45470d4ee4b9d4d6ffa194e713c1a4d99a911f4749a37ad2a55 1094 main/binary-armhf/Packages.gz
  9bdb421a0a80bc9342f63f4441a60e6572b9e8809ec1d56bb62f91c0fe8f6bb5 83 main/binary-armhf/Release
- ac7cead35613068956db6f64263253a6ccd3691778175121a964cf58555e770f 2336 main/binary-arm64/Packages
- 971d5dc6aebea02b88106d2294ee202fd7a94731ebba281529a464484896b2e0 1192 main/binary-arm64/Packages.gz
+ 9dbf70b7b908d2e666944c100566f809578f0c9a5486db4f151efb53e8b08b42 2811 main/binary-arm64/Packages
+ 3e879f5ee3985f647d2e2c7e3b2cd5cff857c386286865dfa16f93d2927fcbc8 1392 main/binary-arm64/Packages.gz
  b49d38fdee237ea8916750957e0930c255363d51e7f9c6ba207e83953be2b94d 83 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQogLWLo2TSy9MvbTrxTdwM1QTLIgUCaaELVAAKCRDxTdwM1QTL
-IuY8AQDs4GgLToRJvdKy96vk1nuELCsYmFk3tJyK1yyON7SWcAEAmCqtUZew3pW8
-+ed8WrDQQH7k2+Kh+r2ZKXpt+xliGgM=
-=b9LH
+iHUEARYKAB0WIQQogLWLo2TSy9MvbTrxTdwM1QTLIgUCabHwZQAKCRDxTdwM1QTL
+Iv4LAQD/hVt2K5Z+2bFjKZmSC+gxYYr9ftvBKf34SO9BvbUhgAD+NJsc1hdVQdUo
+Ow/R4RvZmxAsVYgZdZtWYyawFZT4Ygc=
+=6AFv
 -----END PGP SIGNATURE-----

@@ -3,33 +3,49 @@ Architecture: arm64
 Depends: libc6 (>= 2.35)
 Priority: optional
 Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.59.0_arm64.deb
-Size: 5413866
-SHA256: bc8e1312f9565659ad19f7c3f5761eb6dacc226fb95701bbcf5ef531b4cc9a0f
-SHA1: 82f766fae2b4d2501e364ca185141f697c407b3c
-MD5sum: ad217f85320536669f37a5dc284999ec
+Filename: pool/main/f/fastfetch/fastfetch_2.60.0_arm64.deb
+Size: 5430916
+SHA256: edeaea6c343fd098f9b11d6d7017552219f74475a94241431901287e95ad8d36
+SHA1: 6aaad12d0749094a0bac7e7747bb486cdf2340d6
+MD5sum: fb0161b8cb3a5fae062259ba61a5aa35
 Description: Fast neofetch-like system information tool
  fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
 Homepage: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Carter Li <zhangsongcui@live.cn>
-Version: 2.59.0
-Installed-Size: 15053
+Version: 2.60.0
+Installed-Size: 15084
+
+Package: kopia
+Version: 0.22.3
+Architecture: arm64
+Maintainer: Kopia Project <kopia-pmc@googlegroups.com>
+Vendor: Kopia Project
+Installed-Size: 46144
+Homepage: https://kopia.io
+Priority: 
+Section: 
+Filename: pool/main/k/kopia/kopia_0.22.3_arm64.deb
+Size: 15084930
+SHA256: 33009f48bd32ad98724d26cf25aadda4c8221379de064d175e7463eb0c6190bb
+SHA1: 480e287644ffae0161c8378ef173e0ec5677a708
+MD5sum: 7d7403e654f7b68dced8514e17cd87b7
+Description: Fast and secure open source backup.
 
 Package: rclone
-Version: 1.73.1
+Version: 1.73.2
 Architecture: arm64
 License: MIT
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 77922
+Installed-Size: 78059
 Provides: rclone
 Homepage: https://rclone.org
 Priority: extra
 Section: default
-Filename: pool/main/r/rclone/rclone_1.73.1_arm64.deb
-Size: 26477040
-SHA256: f6c80bdc82194ac7a66f77c1865053cfa8348c3e554623fa7dd8d1f09b858fcf
-SHA1: 34d398837d51f77ea3458ed7d14078629aeb88a7
-MD5sum: fb182812a3ff993392f1ae2de5cc11b2
+Filename: pool/main/r/rclone/rclone_1.73.2_arm64.deb
+Size: 26509354
+SHA256: 6ab9bb0ac4e34539e1e47e0ad039268964d4e8b3fd967747a7fddf595d367f18
+SHA1: edbae0c572d5b0dbe3cc6d00eb7d94511d4d2ab1
+MD5sum: 3aba31b28f5e17ae768cd9371adfee71
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
