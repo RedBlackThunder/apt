@@ -3,81 +3,36 @@ Architecture: arm64
 Depends: libc6 (>= 2.35)
 Priority: optional
 Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.60.0_arm64.deb
-Size: 5430916
-SHA256: edeaea6c343fd098f9b11d6d7017552219f74475a94241431901287e95ad8d36
-SHA1: 6aaad12d0749094a0bac7e7747bb486cdf2340d6
-MD5sum: fb0161b8cb3a5fae062259ba61a5aa35
+Filename: pool/main/f/fastfetch/fastfetch_2.61.0_arm64.deb
+Size: 5423550
+SHA512: 5b399788ecc50c85e77bc827640f88024e0a9d57dbeafdfffcd89d33f5f81f6d35bfa2cc58990a3a82eb8b49c058a1bf2d31717ed48018e979d8742907f25d85
+SHA256: a00c1197f2b2f4cbad98ece1e0f50da9590997c5f04857daba9dae0fe6f7b4db
+SHA1: 4fbefd7f61627b651e2cfe4edad83738ae813daa
+MD5sum: 7d3d4b2888df0a7edf56db7c32bfcad5
 Description: Fast neofetch-like system information tool
  fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
 Homepage: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Carter Li <zhangsongcui@live.cn>
-Version: 2.60.0
-Installed-Size: 15084
-
-Package: kopia
-Version: 0.22.3
-Architecture: arm64
-Maintainer: Kopia Project <kopia-pmc@googlegroups.com>
-Vendor: Kopia Project
-Installed-Size: 46144
-Homepage: https://kopia.io
-Priority: 
-Section: 
-Filename: pool/main/k/kopia/kopia_0.22.3_arm64.deb
-Size: 15084930
-SHA256: 33009f48bd32ad98724d26cf25aadda4c8221379de064d175e7463eb0c6190bb
-SHA1: 480e287644ffae0161c8378ef173e0ec5677a708
-MD5sum: 7d7403e654f7b68dced8514e17cd87b7
-Description: Fast and secure open source backup.
+Version: 2.61.0
+Installed-Size: 15005
 
 Package: rclone
-Version: 1.73.2
+Version: 1.73.3
 Architecture: arm64
-License: MIT
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 78059
+Installed-Size: 78065
 Provides: rclone
 Homepage: https://rclone.org
 Priority: extra
 Section: default
-Filename: pool/main/r/rclone/rclone_1.73.2_arm64.deb
-Size: 26509354
-SHA256: 6ab9bb0ac4e34539e1e47e0ad039268964d4e8b3fd967747a7fddf595d367f18
-SHA1: edbae0c572d5b0dbe3cc6d00eb7d94511d4d2ab1
-MD5sum: 3aba31b28f5e17ae768cd9371adfee71
+Filename: pool/main/r/rclone/rclone_1.73.3_arm64.deb
+Size: 26419636
+SHA512: a41dad937c23d37eea84afa23ae67fd5eb3389bf0d38f65212f74175709470fcbcb3c0ab1a24e9259ca37bda2bc31530877e3b05c1bcad8cdfff4ca232f68548
+SHA256: ac64bf987226f029ff533838ddd5ed1e1f695dfafeb82e51ffe75c44e2234e4a
+SHA1: 129eec33057ec4e00847925ade07b35ef99c610b
+MD5sum: 1ee2b951bba8b551d5f7b79759b06ce5
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
  of other useful things.
-
-Package: restic
-Version: 0.18.1-1
-Priority: optional
-Section: admin
-Filename: pool/main/r/restic/restic_0.18.1-1_arm64.deb
-Size: 10008760
-SHA256: ff8ed9291980d9da57e7b2261e6674f07efe60a5680647b53ddbe3d7474e8433
-SHA1: 53c80474adbbead677b1ea0b66e1d09dbedd3873
-MD5sum: df3bf56b2a4d734baf37c28ec61557c2
-Description: Restic is a modern backup program that can back up your files.
-Architecture: arm64
-License: BSD-2-Clause
-Maintainer: Florian Frank <frank@cosolit.de>
-Homepage: https://restic.net
-
-Package: starship
-Version: 1.24.2-1
-Priority: optional
-Section: admin
-Filename: pool/main/s/starship/starship_1.24.2-1_arm64.deb
-Size: 4607480
-SHA256: 3b2ab0cc2b2570362cb453960a506dc857041f1d3e6d459694a53f879721dcd5
-SHA1: 1a68dbd52ed842ddf152bec30695a1ec3b14898e
-MD5sum: c9a27f1fd3741d843c68639a7316d84c
-Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-Architecture: arm64
-License: ISC
-Maintainer: Florian Frank <frank@cosolit.de>
-Homepage: https://starship.rs
 

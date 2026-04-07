@@ -3,61 +3,16 @@ Architecture: armhf
 Depends: libc6 (>= 2.36)
 Priority: optional
 Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.60.0_armhf.deb
-Size: 4932136
-SHA256: de05bae83aaa9d9bbcaa4ac50cb69add24fc46600be1ff434bd4f03a6cf4e29d
-SHA1: fb39b0e272097d91b32fc5e7309323cc1c47d8c9
-MD5sum: 1e27e35935d6b196919fd90cba17626a
+Filename: pool/main/f/fastfetch/fastfetch_2.61.0_armhf.deb
+Size: 4943800
+SHA512: b425f99c33061719126ae566be05ec4731ab7d69dd805bbfd2efb7952d970def8d1da9d565f8dd024ef8c784b33090f957193d181aa776787963d0e345a2e88e
+SHA256: a112b71ba1e002dbbda67027c286e79145115cb05c1d06e44961f838ca46c28b
+SHA1: 1039b02c6687d0a5ea214a7c4fb0462664e7596b
+MD5sum: ee8f5cf88e1ee0ba15035c0603d42972
 Description: Fast neofetch-like system information tool
  fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
 Homepage: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Carter Li <zhangsongcui@live.cn>
-Version: 2.60.0
-Installed-Size: 12401
-
-Package: kopia
-Version: 0.22.3
-Architecture: armhf
-Maintainer: Kopia Project <kopia-pmc@googlegroups.com>
-Vendor: Kopia Project
-Installed-Size: 45632
-Homepage: https://kopia.io
-Priority: 
-Section: 
-Filename: pool/main/k/kopia/kopia_0.22.3_armhf.deb
-Size: 15491498
-SHA256: eea463267eccfe461f903e6d32196a16b76341997b60cef0070f61989f12f14f
-SHA1: 646725bd792b006ce2f9771cbea7919b209bc7a2
-MD5sum: 45a11922393e4ae6a7dacb73ead32edb
-Description: Fast and secure open source backup.
-
-Package: restic
-Version: 0.18.1-1
-Priority: optional
-Section: admin
-Filename: pool/main/r/restic/restic_0.18.1-1_armhf.deb
-Size: 10434898
-SHA256: 8f9dadca452e7b04c4f8fd73eb0d2a05a5672ff5ab575c14ccc2e87c177224e0
-SHA1: 09776d73a90b3fd694c98d402712c9e8bdb9016e
-MD5sum: 5034ccb5c4c98285907b6cce25a7b5ed
-Description: Restic is a modern backup program that can back up your files.
-Architecture: armhf
-License: BSD-2-Clause
-Maintainer: Florian Frank <frank@cosolit.de>
-Homepage: https://restic.net
-
-Package: starship
-Version: 1.24.2-1
-Priority: optional
-Section: admin
-Filename: pool/main/s/starship/starship_1.24.2-1_armhf.deb
-Size: 4775412
-SHA256: 90fc353ec01a2ec39ffb8e69a35c54736e8d419d94a289b458ee3c3017e2e833
-SHA1: bb7e1ec6e0db7c5132e646813c840e7663673594
-MD5sum: c9801645deae2b1d9eaf0e686e5367df
-Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-Architecture: armhf
-License: ISC
-Maintainer: Florian Frank <frank@cosolit.de>
-Homepage: https://starship.rs
+Version: 2.61.0
+Installed-Size: 12427
 

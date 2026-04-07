@@ -3,96 +3,36 @@ Architecture: amd64
 Depends: libc6 (>= 2.35)
 Priority: optional
 Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.60.0_amd64.deb
-Size: 5462976
-SHA256: f24aa1187c544250177d1329a7abc0c31ee9f06ec8e6cbba1ad57a2ddc4eec25
-SHA1: 90468fd8b7b3e6a5310e79db7e95824178e6997d
-MD5sum: dd8087c81b299731f65f6a90fb42f2fa
+Filename: pool/main/f/fastfetch/fastfetch_2.61.0_amd64.deb
+Size: 5461800
+SHA512: b2cd5ae63c1eb37d84e0247ef3acdd72f7540552dfa43dcbbf791963dd10f25e7e66b048b115b8136efb17248832ea7b56cad52231779e1b5e81e863151cafae
+SHA256: 9b046cdc48be70af50379d9471aeea7735392265bf793ab52094350b37352577
+SHA1: ada0f04a9c75a88601b811a08ff05fbea9d41844
+MD5sum: fdb29460ae44e85c811f397e0789e57d
 Description: Fast neofetch-like system information tool
  fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
 Homepage: https://github.com/fastfetch-cli/fastfetch
 Maintainer: Carter Li <zhangsongcui@live.cn>
-Version: 2.60.0
-Installed-Size: 14684
-
-Package: kopia
-Version: 0.22.3
-Architecture: amd64
-Maintainer: Kopia Project <kopia-pmc@googlegroups.com>
-Vendor: Kopia Project
-Installed-Size: 50184
-Homepage: https://kopia.io
-Priority: 
-Section: 
-Filename: pool/main/k/kopia/kopia_0.22.3_amd64.deb
-Size: 16743396
-SHA256: 4c576787710abc39be72324bbcf62540e3ef1d4dab85f4f6560da5662b5d25e9
-SHA1: c49bb3d68318089812b16690f65209fa5b0b5989
-MD5sum: 4464322d7306cdc2f59b2333411816e2
-Description: Fast and secure open source backup.
+Version: 2.61.0
+Installed-Size: 14607
 
 Package: rclone
-Version: 1.73.2
+Version: 1.73.3
 Architecture: amd64
-License: MIT
 Maintainer: Nick Craig-Wood <nick@craig-wood.com>
-Installed-Size: 83771
+Installed-Size: 83825
 Provides: rclone
 Homepage: https://rclone.org
 Priority: extra
 Section: default
-Filename: pool/main/r/rclone/rclone_1.73.2_amd64.deb
-Size: 28910842
-SHA256: 2c6bc8e6ee23493907bdae2c599b00b9fcc2def7d1346211ce371323d14ac9d6
-SHA1: 76bfa7a7efadfd472fc56c21455a1f0a7561fc35
-MD5sum: 9af31938df8cf49d2fe576739b203766
+Filename: pool/main/r/rclone/rclone_1.73.3_amd64.deb
+Size: 28804500
+SHA512: 2dc6d1f8f3fbf7c6a945dcaca2d09847c71a58fd36c303b9b222f12c49e4bed4afb18202bbfe134eeb175598bcf1a88dfe78e52ad6a024d010f3e77c94bdf0f8
+SHA256: 4a35709c2ae07ae1643df559ad1a4d5e95965be241ce1e780333bf921a38e296
+SHA1: 91b4c293752de06f239048a64a422b31f86afcce
+MD5sum: a0c2f137717743bb125a78705dd6cba9
 Description: Rclone - "rsync for cloud storage"
  is a command-line program to sync files and directories to and
  from most cloud providers. It can also mount, tree, ncdu and lots
  of other useful things.
-
-Package: rest-server
-Version: 0.14.0-1
-Priority: optional
-Section: admin
-Filename: pool/main/r/rest-server/rest-server_0.14.0-1_amd64.deb
-Size: 3740812
-SHA256: f423369b48ff2446d259d6b7cb6698aaa8bebbcabe2a0aea83f3b692adf8ed8e
-SHA1: 10459a91410a11eb4cc0e478899aa52593bb7470
-MD5sum: 18a5e1d1d0d2ad272fce0025a08b2532
-Description: Rest Server is a high performance HTTP server that implements restic REST backend API.
-Architecture: amd64
-License: BSD-2-Clause
-Maintainer: Florian Frank <frank@cosolit.de>
-Homepage: https://restic.net
-
-Package: restic
-Version: 0.18.1-1
-Priority: optional
-Section: admin
-Filename: pool/main/r/restic/restic_0.18.1-1_amd64.deb
-Size: 11066356
-SHA256: 67ec09b406a29f1dccba7f55fd13497839d7579e59df341e15f39eb689ed8272
-SHA1: 78e71e56bb101fbed740929e79805345d390c4d5
-MD5sum: a489da18ca09598ee42d60de25a09cb4
-Description: Restic is a modern backup program that can back up your files.
-Architecture: amd64
-License: BSD-2-Clause
-Maintainer: Florian Frank <frank@cosolit.de>
-Homepage: https://restic.net
-
-Package: starship
-Version: 1.24.2-1
-Priority: optional
-Section: admin
-Filename: pool/main/s/starship/starship_1.24.2-1_amd64.deb
-Size: 4926020
-SHA256: 3b11cb4b99afcb29e5bedecbf751be317ddcabf677f437dcc017ff67860bebe9
-SHA1: be84c064e0e43945135130bb3d6eb1a10741afd0
-MD5sum: 64e5a249ca21b3f890ec687e329620bf
-Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-Architecture: amd64
-License: ISC
-Maintainer: Florian Frank <frank@cosolit.de>
-Homepage: https://starship.rs
 
