@@ -5,7 +5,7 @@ Origin: CoSolIT
 Label: CoSolIT
 Suite: stable
 Codename: trixie
-Date: Wed, 13 May 2026 20:56:13 UTC
+Date: Wed, 13 May 2026 21:30:43 UTC
 Architectures: amd64 armhf arm64
 Components: main
 MD5Sum:
@@ -50,9 +50,9 @@ SHA512:
  f81b95c41bbedef4fa86b8b08353a131fc997d2414c388f27bc15afd7ccdcf8e60277b1aaea9b5b9ab8e243c20f9fcbee74b3d2f801bdae0bbf0d5c3515eb7ca 83 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iJEEARYKADkWIQQogLWLo2TSy9MvbTrxTdwM1QTLIgUCagTlchsUgAAAAAAEAA5t
-YW51MiwyLjUrMS4xMiwwLDMACgkQ8U3cDNUEyyKddwD/de3ofTwlvpEDx2ItTP0d
-5KXe01wW59eUeWkOXFmDXYoA+QHvOl27eCbc4QphW/7BMmtUOh/XxDrgvf47knk+
-DJoK
-=vGST
+iJEEARYKADkWIQQogLWLo2TSy9MvbTrxTdwM1QTLIgUCagTtgxsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMiwwLDMACgkQ8U3cDNUEyyJCmQEA55yznntm9H224lo37/n/
+3wS/32R4xl7L4L5FxvtkAEQA/21rnsvhjt3jksXpRxPX83zdUg93LLc9EAlgciaZ
+EzsN
+=oIAF
 -----END PGP SIGNATURE-----
