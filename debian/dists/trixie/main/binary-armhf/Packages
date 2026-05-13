@@ -1,18 +1,17 @@
-Package: fastfetch
+Package: kopia
+Version: 0.23.0
 Architecture: armhf
-Depends: libc6 (>= 2.36)
-Priority: optional
-Section: devel
-Filename: pool/main/f/fastfetch/fastfetch_2.62.1_armhf.deb
-Size: 5026040
-SHA512: f702a11b463f59877cc2de5cdc25e0188b20b9fe15f9405aa37490a1d70180e17af8a6783286f114ecfcf15a0462f0aa1fb4e315046f13d9ce0c18873849c4b9
-SHA256: e446850fa018bd23bbd9cbaaa54331caea3a7ee2fe3dac258943be160d9fd9b5
-SHA1: ad589be8a3c6cbb725be9c701f6cb1b7c5b9fd69
-MD5sum: 8e9d87aecef212dae27d3ca396259308
-Description: Fast neofetch-like system information tool
- fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
-Homepage: https://github.com/fastfetch-cli/fastfetch
-Maintainer: Carter Li <zhangsongcui@live.cn>
-Version: 2.62.1
-Installed-Size: 12662
+Maintainer: Kopia Project <kopia-pmc@googlegroups.com>
+Vendor: Kopia Project
+Installed-Size: 46208
+Homepage: https://kopia.io
+Priority: 
+Section: 
+Filename: pool/main/k/kopia/kopia_0.23.0_armhf.deb
+Size: 15706394
+SHA512: 3a6944d4207e0f032cc4d1590be563a096c5dae1227ad5ff36133dfb26a561408af594a024bd0549df9717c34f118456e0e2dd330ac407304dcd8a030298a896
+SHA256: d4d06192610d8c1f52960541e7e5ba1bb7bbb3a6975f90f0419be7ceadcbc40b
+SHA1: 94d64ed1c2166ff2e67ab2d503de7775024fd0f2
+MD5sum: eeeb88c1494804ea178d0e945d5e788e
+Description: Fast and secure open source backup.
 
