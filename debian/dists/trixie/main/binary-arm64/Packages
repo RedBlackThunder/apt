@@ -53,3 +53,19 @@ Description: Rclone - "rsync for cloud storage"
  from most cloud providers. It can also mount, tree, ncdu and lots
  of other useful things.
 
+Package: starship
+Version: 1.25.1-1
+Priority: optional
+Section: utils
+Filename: pool/main/s/starship/starship_1.25.1-1_arm64.deb
+Size: 4653434
+SHA512: aea210bfa346bdea55876a11912e7dc68b9927cbc5c79c8b1ed78a7578c8a5fdb17a9ff737842935aec0783191362b4e3808057c1bfaf3685e88dce386ac1a80
+SHA256: d90403240965212881143e938cc0f85c81945226be0154fc16a708d9446ca29e
+SHA1: 27f5b81795b4c803bf5e27d8166780a40b24e933
+MD5sum: b4fd10c942d71c8a7076e2f9eea7aa40
+Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+Architecture: arm64
+License: ISC
+Maintainer: Florian Frank <frank@cosolit.de>
+Homepage: https://starship.rs
+

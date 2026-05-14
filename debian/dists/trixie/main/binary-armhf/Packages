@@ -33,3 +33,19 @@ SHA1: 94d64ed1c2166ff2e67ab2d503de7775024fd0f2
 MD5sum: eeeb88c1494804ea178d0e945d5e788e
 Description: Fast and secure open source backup.
 
+Package: starship
+Version: 1.25.1-1
+Priority: optional
+Section: utils
+Filename: pool/main/s/starship/starship_1.25.1-1_armhf.deb
+Size: 4813092
+SHA512: 923df723fa686675df1861c522da08e55b09eec5419a0a61f871ee9467fbe7fbb4c301344d53c15b2dfd989c36ae68586355e2861efd165dcf989f06a39fb196
+SHA256: 010ffb678650b218262063a0350464ca0aa9cd76fd1a15ba150b3998251ce457
+SHA1: 4d869b95ddf3dfc6ed1b466d48a8950d6e4e2289
+MD5sum: 4db1923a9f4f936b3915c87c48034221
+Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+Architecture: armhf
+License: ISC
+Maintainer: Florian Frank <frank@cosolit.de>
+Homepage: https://starship.rs
+
