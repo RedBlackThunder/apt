@@ -1,3 +1,21 @@
+Package: fastfetch
+Architecture: armhf
+Depends: libc6 (>= 2.36)
+Priority: optional
+Section: devel
+Filename: pool/main/f/fastfetch/fastfetch_2.63.1_armhf.deb
+Size: 5096196
+SHA512: 35856cbcbc4a83da922889ec726440069b8b16b63564341484cefb5be06581693ae720d4f6d2c694359ee7dfb121c00454346cca92811b38d7d92ad0133282d7
+SHA256: 101cb181f6ce69a56eaae0d4d8015d4a6fbe9c1bdcae264d283582d19340d8be
+SHA1: 8f38b6794acfa026a34fd533b93d9d73de02107f
+MD5sum: 7cbae69d748ff31b3cb944457b673b93
+Description: Fast neofetch-like system information tool
+ fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way. It is written mostly in C to achieve much better performance.
+Homepage: https://github.com/fastfetch-cli/fastfetch
+Maintainer: Carter Li <zhangsongcui@live.cn>
+Version: 2.63.1
+Installed-Size: 12821
+
 Package: kopia
 Version: 0.23.0
 Architecture: armhf
